@@ -1,0 +1,13 @@
+name = "Extra Boats"
+filename = "extra_boats-mc1.20-v2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Yrksp0h/versions/MSgMAPzd/extra_boats-mc1.20-v2.1.jar"
+hash-format = "sha1"
+hash = "35e4c2058173c932975b96a4c64b07deeab45d8c"
+
+[update]
+[update.modrinth]
+mod-id = "9Yrksp0h"
+version = "MSgMAPzd"

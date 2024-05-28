@@ -1,0 +1,13 @@
+name = "Life Crystals"
+filename = "life-crystals-1.0.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FQBPM9qS/versions/jhEyBKJG/life-crystals-1.0.3%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "3e223dd87b934bd7b497ac97cee96a35c474ea10"
+
+[update]
+[update.modrinth]
+mod-id = "FQBPM9qS"
+version = "jhEyBKJG"

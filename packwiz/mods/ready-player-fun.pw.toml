@@ -1,0 +1,13 @@
+name = "Ready Player Fun"
+filename = "readyplayerfun-1.20.1-2.8.0.0-FABRIC.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/AwiAYDUq/versions/enHJ7ovu/readyplayerfun-1.20.1-2.8.0.0-FABRIC.jar"
+hash-format = "sha1"
+hash = "6dfe375bbc53b14b5b358853dec3dbe09e922bbf"
+
+[update]
+[update.modrinth]
+mod-id = "AwiAYDUq"
+version = "enHJ7ovu"

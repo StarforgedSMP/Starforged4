@@ -1,0 +1,1152 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/a"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/amendments-client.json"
+hash = "da0795a8437cc026cdd58b936c1f247399e2e08738af58ee93436ffd43f98809"
+
+[[files]]
+file = "config/amendments-common.json"
+hash = "5f3443ee5273a49192b13f25a34fafe71f068e4399ab7bafff264bb0d1ac830e"
+
+[[files]]
+file = "config/balm-common.out.toml"
+hash = "c7482d879a9099f4d2660f71c9a5aad54cc4289b9567077c4e5fde149795b9a6"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
+
+[[files]]
+file = "config/beautify.json"
+hash = "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab"
+
+[[files]]
+file = "config/betterdeserttemples-fabric-1_20.toml"
+hash = "06a1b8b7774df6bef4dc9b82e140a4211d41c93178ee0d9d25105d05a6c20566"
+
+[[files]]
+file = "config/betterdungeons-fabric-1_20.toml"
+hash = "c0809814af173f138d83495d36aabcccda93ba2f2a49ec5b7e1c87a201efee77"
+
+[[files]]
+file = "config/betterendisland-fabric-1_20.toml"
+hash = "8dc553b84ad47cefbfbe3706d2172a06caa2549ad8e6f151a3b2763ddf08936f"
+
+[[files]]
+file = "config/betterfortresses-fabric-1_20.toml"
+hash = "c6f718e24389dd618b788ea1ef0c64d3689e9408fd9a482e67ecece0dc392ece"
+
+[[files]]
+file = "config/betterjungletemples-fabric-1_20.toml"
+hash = "69a3aa51ef5a881f01a6515f72a57a10b8df7c7b93588f424fc07c864a0933e1"
+
+[[files]]
+file = "config/betteroceanmonuments-fabric-1_20.toml"
+hash = "dbba9af53d8bfb9f46cb4c9ab525a72026ad0a13c36e8dd8efe7398a767c3187"
+
+[[files]]
+file = "config/bosses_of_mass_destruction.json5"
+hash = "6bf64126b4f95b7f41c468ed61851b823a9fd02c6cb4b4cdf4736530af5bb820"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "8c8167c00afb1288c8c45626319027d303af23a442a2378f7b30ff50bb0eb055"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "4b319a14585af07e9d8abc09554b46e1eeb8415b64c1f045b4edd5d4eea60d1c"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "36a4d9f5da68f6801b83ce0c4a1a8805fbeffb0dd997f2d405465d7774522296"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "0954f1f111f7cbfa59b97e6e3e80e5233efcf93875bc488749e8cdcc43ce6092"
+
+[[files]]
+file = "config/enchant-tweaker.properties"
+hash = "533e8fa5efa40f0e4c033d68ee1fc20531965996e10d3b10784377e94da8b333"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "79adbaacb3981d7f2ebe428a16e6f43ad894ae0d5b19baa4053428a567957a97"
+
+[[files]]
+file = "config/farmersdelight.json"
+hash = "050ba20fca66274c6f8d408a07da0c91a9b30f54a0023639ebcb21bda5c0aa5f"
+
+[[files]]
+file = "config/flywheel.json"
+hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "ac070ed460bf105be08b98392544e52093232aaf2cee8e3db826bb709ed535cd"
+
+[[files]]
+file = "config/forgivingvoid-common.toml"
+hash = "1b6ef2b5e3dac0125793bc7eca327c9559f3d599817133d3452b12fe3c1030f0"
+
+[[files]]
+file = "config/globalxp.json5"
+hash = "9f7c7996709e52473a5f3baab02df39be8e102123d76566cc7d2f3467a131645"
+
+[[files]]
+file = "config/gravelminer-common.toml"
+hash = "b4aa55b45c0839bf69576e0c7eeca99f8d7f887c1d5f26a1bb28132342458b62"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "172c377884b147a8014e31c4070d7e4d5f0a131cfcb4846370f2b7431959236e"
+
+[[files]]
+file = "config/life_crystals.json"
+hash = "025081b0855ff02145f4a50a16ce1fde92bae38837ae68a10859c79272de79f1"
+
+[[files]]
+file = "config/lootr.json"
+hash = "3903323b855dffa7da1ae5affee8ce6ba96ab11d342cdf10852269039343805b"
+
+[[files]]
+file = "config/moonlight-client.json"
+hash = "f1c8df5ae2439e69a736a48592d1486a09380d6c70ca69f020f7adcff9d09515"
+
+[[files]]
+file = "config/numismatic-overhaul.json5"
+hash = "dedd3c136687743b1a8b6464f6eab1d598338937ae575da3a4da110126b5c217"
+
+[[files]]
+file = "config/origins_server.json"
+hash = "15015fd014eb1b64731d6725841a60edb318638644f4953d65ed54042fe28148"
+
+[[files]]
+file = "config/pal.properties"
+hash = "d1ede439a0888a2cac02ab3e4c06cec3cf64ec472ca523ba808433b38bae190c"
+
+[[files]]
+file = "config/power_config.json5"
+hash = "44bbb89a6a4e53bfe018895f163c3b7f8c21c3bb259d2ce7784d2cb7b7305da9"
+
+[[files]]
+file = "config/projectile_damage.json"
+hash = "8c3eb2a4150a8575e522c02acbdd88f7d6a387e9caf07da4683d6df4b4abac29"
+
+[[files]]
+file = "config/readyplayerfun-common.toml"
+hash = "49661414f5cd74085acdea1ae6a7619382fca6f8b9f2cef5c6d9beb2006dc1a0"
+
+[[files]]
+file = "config/rpgdifficulty.json"
+hash = "35145298a53a58135e529d7c6cf9ca0d9c4f3d4928fc5d7acb88102f9918191d"
+
+[[files]]
+file = "config/shulkerboxslot-server.toml"
+hash = "40feaa58d4d562315325c561cf1e38f7fd2818d44a6d3efe4d441a7c90b667c6"
+
+[[files]]
+file = "config/shulkercharm.json5"
+hash = "5220d849c5cf43f7010a938c4c28bffda0dd3c933d1f9abe55f548b373034e42"
+
+[[files]]
+file = "config/spawnermod.json"
+hash = "3cf170f8185d47b4cbc1efe9476ecef40fce56ee03a433e0d315f9537adc94a7"
+
+[[files]]
+file = "config/stacksizeedit.json"
+hash = "bf6c15c040f25b21e4aa4f4866c6507b7ded791523166a9e23811fd919005621"
+
+[[files]]
+file = "config/supplementaries-client.json"
+hash = "97c5ea33f2bb03e27cb74b28e89d2670296b2b461f75230686533ec39b2aa61c"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "c92b05a65319b48f225627f09d9d87a08b9955fcd5d9af4df4091820e31eb970"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "6182d9b5caace521a7429905796002e5f6c560e4a19828bfc79e057112084bfa"
+
+[[files]]
+file = "config/timecontrol.json"
+hash = "bbafcca316389374aac2a41162255bc2ec45e7429461ca1351b0ae4f508a1636"
+
+[[files]]
+file = "config/tlc.json"
+hash = "fa0f1e92e24116664d6040b92f61fb144d4227a537ea1613af4fd3c95273945e"
+
+[[files]]
+file = "config/vcinteraction/vcinteraction.properties"
+hash = "575324975b2e7bd78806d223877b706ab6cbf745e405d9af31fc6a9405f7e53c"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "0085cad16f45032536777a50ad78d83b296db24923b8f4791f91768209fa2cd9"
+
+[[files]]
+file = "config/waystones-common.toml.bak1"
+hash = "951dcda290934fb0bd8de4e5c2d4df1b790c0074c4c4aacb54d18409c8206b62"
+
+[[files]]
+file = "mods/acclaimed-origins.pw.toml"
+hash = "6a25a93c0e3c4ef8d9a837607629d6d8b40ee55ba65a39d790cf198abc4ee4d0"
+metafile = true
+
+[[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "c3cec05f2c0456cd0d2b1c31cb7d35b4e905700fbe97d0900d1b0497a0a950a8"
+metafile = true
+
+[[files]]
+file = "mods/afk-announcer.pw.toml"
+hash = "01b0db5f3a335de824e9501121210dbd989680459a2feb2f3359af8238377705"
+metafile = true
+
+[[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "9c5d0f1adf081043b74cd306ba4dee43182c837c06fd35619cf676ee838e44fd"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "75e5d14118253c3930e373cb71e097fe01c41ff7873182382d914c5383d09389"
+metafile = true
+
+[[files]]
+file = "mods/animal-origins-ioc.pw.toml"
+hash = "c6b479e0d69143384fadcf7165f71a6a79f8f2c1789b79bdbef62983dd300d47"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/aspects.pw.toml"
+hash = "49c316eb6bba190bd3ceefebb6374b77c215316367c3e1cd7a126b0acb2546aa"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "49323e1540fe35dd58946d577dfa9163df4b037eb6231916b1dd86c8204a7e84"
+metafile = true
+
+[[files]]
+file = "mods/better-end-cities-for-betterend.pw.toml"
+hash = "5606192f6df775e4c604d8b0f5f2c34edbaa3046de38203c88cfc197bfd7c8a2"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
+metafile = true
+
+[[files]]
+file = "mods/birds-boids-addon.pw.toml"
+hash = "58cec69fd6c7b269c9102faf67e8875d3dd1491a7d1a946c87a63d388f0bb35f"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
+metafile = true
+
+[[files]]
+file = "mods/boids.pw.toml"
+hash = "9c1a1c9b141d645c64ebe1c70f004d6ea889071ef39b057bab76ecd24302b011"
+metafile = true
+
+[[files]]
+file = "mods/boss-blades-2.0.pw.toml"
+hash = "83e1467708572eb723cc196f6617bb58a91586ab58a3241a625449ccf660fb57"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "31a75fd95d5c670301f8f135ae702e6913a43a7605a28e44425f4838b30f338e"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "82a31265d90c885eadccd59c2a35ef795fd526865091243933d52717ef1db4be"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
+metafile = true
+
+[[files]]
+file = "mods/caves__canyons.pw.toml"
+hash = "decc3a32b8b8e98de30b2efdaacc501a321cf7be2ee8f1ae4c2d53295f75c2ee"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "f0a4562f19849d0bfc567017d4b6f04b57787ade7938a586aca24ec5481964d1"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "57bdebf7fb5de047c0fe304d2646c854d629007734c589253aaa97973982f522"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b73dc299ac242f3dc0e5cafe29701e3f1632adbe33a41561c17701da28cbf30c"
+metafile = true
+
+[[files]]
+file = "mods/enchant-tweaker.pw.toml"
+hash = "4d5b8dd0b5c31c552b8195d1058e14a009e8ecc943bfe9bef6c3c837d56b6d16"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-mob-spawners.pw.toml"
+hash = "4d43df38124623e53f45d192ed32112058dbd56c2f29211ba908dc39679e9eed"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "5c52ec5b882cf4aec6344b220d4f1f6f54cfe90ea406ca97f092ec9cc1965092"
+metafile = true
+
+[[files]]
+file = "mods/expansive-caves.pw.toml"
+hash = "48a97707c2c6d4fe19bf158ce6a1261c011d2104f96ee56e69b4c3a0543cad1d"
+metafile = true
+
+[[files]]
+file = "mods/expansive-ravines.pw.toml"
+hash = "05ac13314ad6085d5db30cc5765b3a2e54a36fd3ae5ccac5c221fa404462e2cc"
+metafile = true
+
+[[files]]
+file = "mods/extra-boats.pw.toml"
+hash = "16d147709c305216b266bc61c0d0fbc35424d956569c4314071b376c2676230b"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "67967605a5a1603de48fd6613469fb86f6beb30a2702b2aca64210c57d57573a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "a79279c798e10b673c3e7dfbe675a29e09d5709ddf38d7300356346a7d29ac13"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "72cc5d492b49c72c87da9629cd51e7240abae422784fef925872a0d4187c4932"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "d0696cb1d78fe49dcafb52a127f5f3acc0dae2d7b7ab37065cdbcf306569cb01"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
+metafile = true
+
+[[files]]
+file = "mods/global-xp.pw.toml"
+hash = "2af16c20956ad3af4c53de27d32da445ca54ef627e90d5bd75444016a4f07a55"
+metafile = true
+
+[[files]]
+file = "mods/gravelminer.pw.toml"
+hash = "b604a70813426c76c860832df81e8ed97def11d32d04264d36fc8ea8d185c589"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-ruined-portals.pw.toml"
+hash = "eb82ce8edafc56ce63c1f91b51903c7d86927135c0ca8d64eedac1f9aba37820"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "d29a7b417432dd8ea0e0c1535ca6ec26e75cad58eec96c80037dbf24ed1634c1"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "a783f06655a629fcd7846ba75745e4afbeb165fc1f2c3fa5555013685d015a65"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "cb3bbff11623cd344bcf6914575f5368f11f6394287a6bb4777504d99b716707"
+metafile = true
+
+[[files]]
+file = "mods/libra-an-origins-addon.pw.toml"
+hash = "fa0309014d556ba6103dcb2cadf0c9ffdad5d7cd293f3ef3c63f9092e3ec871a"
+metafile = true
+
+[[files]]
+file = "mods/life-crystals.pw.toml"
+hash = "a83f0983b0dad48c8c295a09cd65fc83c3e8f376d77663764f6758ddead12c20"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
+metafile = true
+
+[[files]]
+file = "mods/moborigins.pw.toml"
+hash = "8686717834b2c99c73a0224befd70389e2a0183cbbc61850c901aa5aad19d96c"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "50494c04a20e65d378e519e171e5284a082b268a6248f15e7804d4677fa5fa94"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "3289e98ddd0f9804882a8893fae99f34907b0cdf2a16ab441d925d0321318fe6"
+metafile = true
+
+[[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "c856fe88e3cf7c1c8ffc85047717b9158e461036e422b5da5f8ec5aecb072671"
+metafile = true
+
+[[files]]
+file = "mods/orb-of-origin-plus.pw.toml"
+hash = "7f936aa1274e92c5c1f7120aea5b17ca48ccc5080d9ca3f0260b56073f9188df"
+metafile = true
+
+[[files]]
+file = "mods/origins-extra-keybinds-fabric.pw.toml"
+hash = "7806898bdc3d3fb6fad6d088627cefb2842ae49a882ea099989bc7793b0924a0"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
+metafile = true
+
+[[files]]
+file = "mods/overloaded-armor-bar.pw.toml"
+hash = "d507fc610e64401abdfee723798dd58a2c3fc137fe5e87848b6225600429827a"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "8f91c3b6a5064a59a7b9027fc1bb24064c194aaa904192333834b72b69f7ae71"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "6e72f1cfdba5e594671bf56eaf7d00526f42eb7b9ceeb8ce98b6faafce869ad5"
+metafile = true
+
+[[files]]
+file = "mods/projectile-damage-attribute.pw.toml"
+hash = "a6b16a548b0883eb8c0bde6a05e2c5a6313fcfc8ce32df158a71a2efb2abd378"
+metafile = true
+
+[[files]]
+file = "mods/ready-player-fun.pw.toml"
+hash = "bb9c50d8b6d9b9e39fbc307042e7a361f0dc12635d318ddfbf49300ec01e7b3a"
+metafile = true
+
+[[files]]
+file = "mods/rpg-origins.pw.toml"
+hash = "eefa3b58473952bca5aa799f191264940d67dfbcdfa2c0b7183e3cb1938cf443"
+metafile = true
+
+[[files]]
+file = "mods/rpgdifficulty.pw.toml"
+hash = "fe1288f6febffc381c95c906117871bbcdf3a74744126efcc28206d1a314e367"
+metafile = true
+
+[[files]]
+file = "mods/show-dimension-in-name.pw.toml"
+hash = "3b14cda3339b8aba9aa334923b192cba9178b991aacdf181c3c9d790d3885d5b"
+metafile = true
+
+[[files]]
+file = "mods/shulker-box-slot.pw.toml"
+hash = "78375267a9977790798ddd655f3ec66305874db0d04da26db83a13cca5fedf8c"
+metafile = true
+
+[[files]]
+file = "mods/shulker-charm.pw.toml"
+hash = "6b9997bc25be0c3cca18408393949fcb9eb6e53be760552e4a24164f4911b830"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "7e5fa206c5818b4366f14c9fb6f8953ac0242032a0d02b368853e71ded91ac22"
+metafile = true
+
+[[files]]
+file = "mods/stack-size-edit-fabric.pw.toml"
+hash = "90c8ede97ef9a96c486f8b066fe3425da95ab7c5cfab4b670c76813fad3af8e7"
+metafile = true
+
+[[files]]
+file = "mods/stars_steel-1.1.0.jar"
+hash = "9992bdfd043f929db5b45d0cb33c9b1059e470b9aa84dafba825730178bf08aa"
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "042778d980d8d00f729a99bfa24689aafa848a9596d23447e059dee1929c03cf"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-castle.pw.toml"
+hash = "71759ba6675ec4109bc555e2f5adfa5d433d8f633692a1bb69b0c7b2a0b90ae9"
+metafile = true
+
+[[files]]
+file = "mods/time-control.pw.toml"
+hash = "b3cc1a570e0d17cff97d7af8f4b8c4ec9d8fc704d0eb1e1575dbfaa5fe785cb2"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "a6614ca2d62be4bd9a6f98089c1a999f383d7a1d26ee057a8c8937d59129812e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "911d7f5d030bc0990e87e2a3cd113ef059c8229849f131f5957ae275634a9247"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "e7e2cc03c81bad91f62c77e988a3ac2c198a5c3e9a11ba7a7ca6d8cdc7122a60"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "0649f0106ad675a51393d8e468f276b9797dde47a6d308405e4ec29440c13da9"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "2cbc1f2cc5af34d0e2688cab02bbb73306ae1e578bc07dc86b57819f1168a3ec"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "ceffda181c95ab0ecbc91e01071d2df27d53117da2ae6453c1f0bb46be0fe4f0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "925ed414ce82dd8e694288782a43a9ebaa5eb1752d7ad4e4ce3dd359040402e5"
+metafile = true
+
+[[files]]
+file = "template/Starforged.png"
+hash = "812d5b10c9a84b9129710d6c7a1a841300a32a7ae4c366069ae6204aa4e3b6b0"
+
+[[files]]
+file = "template/instance.cfg"
+hash = "af372092e08a5fde0eae08ee1c3c923e5c3c10521086df47f4e941b4f311d34b"
+
+[[files]]
+file = "template/mmc-pack.json"
+hash = "fdd79e6030003ccb297dd68f417d56b1592c6f680242d2120de373007980837e"
+
+[[files]]
+file = "test/STARFORGED 4-1.0.0.zip"
+hash = "c95c1246b9dcce8cfbc326289c3f19f2a89a3f6dd46fafe4f14bbbbab82dedb5"
+
+[[files]]
+file = "test/Serenity.1.20.1.zip"
+hash = "e655580e33d85fcf023e50333ff3552868f0f133c5a1b3d7a5a96aa5ee1b3a14"
+
+[[files]]
+file = "test/manifest.json"
+hash = "237144d4a62769f34454c0c3fdceaa2e148bccb460e797fcb60d01d6579bc275"
+
+[[files]]
+file = "test/modlist.html"
+hash = "29c4883f7b4fb8e81fbd295c2a2547933f7cbd87e9a42ffc2738afa6b06d765e"
+
+[[files]]
+file = "test/overrides/config/a"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "test/overrides/config/amendments-client.json"
+hash = "da0795a8437cc026cdd58b936c1f247399e2e08738af58ee93436ffd43f98809"
+
+[[files]]
+file = "test/overrides/config/amendments-common.json"
+hash = "5f3443ee5273a49192b13f25a34fafe71f068e4399ab7bafff264bb0d1ac830e"
+
+[[files]]
+file = "test/overrides/config/balm-common.out.toml"
+hash = "c7482d879a9099f4d2660f71c9a5aad54cc4289b9567077c4e5fde149795b9a6"
+
+[[files]]
+file = "test/overrides/config/balm-common.toml"
+hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
+
+[[files]]
+file = "test/overrides/config/beautify.json"
+hash = "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab"
+
+[[files]]
+file = "test/overrides/config/betterdeserttemples-fabric-1_20.toml"
+hash = "06a1b8b7774df6bef4dc9b82e140a4211d41c93178ee0d9d25105d05a6c20566"
+
+[[files]]
+file = "test/overrides/config/betterdungeons-fabric-1_20.toml"
+hash = "c0809814af173f138d83495d36aabcccda93ba2f2a49ec5b7e1c87a201efee77"
+
+[[files]]
+file = "test/overrides/config/betterendisland-fabric-1_20.toml"
+hash = "8dc553b84ad47cefbfbe3706d2172a06caa2549ad8e6f151a3b2763ddf08936f"
+
+[[files]]
+file = "test/overrides/config/betterfortresses-fabric-1_20.toml"
+hash = "c6f718e24389dd618b788ea1ef0c64d3689e9408fd9a482e67ecece0dc392ece"
+
+[[files]]
+file = "test/overrides/config/betterjungletemples-fabric-1_20.toml"
+hash = "69a3aa51ef5a881f01a6515f72a57a10b8df7c7b93588f424fc07c864a0933e1"
+
+[[files]]
+file = "test/overrides/config/betteroceanmonuments-fabric-1_20.toml"
+hash = "dbba9af53d8bfb9f46cb4c9ab525a72026ad0a13c36e8dd8efe7398a767c3187"
+
+[[files]]
+file = "test/overrides/config/bosses_of_mass_destruction.json5"
+hash = "6bf64126b4f95b7f41c468ed61851b823a9fd02c6cb4b4cdf4736530af5bb820"
+
+[[files]]
+file = "test/overrides/config/c2me.toml"
+hash = "8c8167c00afb1288c8c45626319027d303af23a442a2378f7b30ff50bb0eb055"
+
+[[files]]
+file = "test/overrides/config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "test/overrides/config/create-client.toml"
+hash = "4b319a14585af07e9d8abc09554b46e1eeb8415b64c1f045b4edd5d4eea60d1c"
+
+[[files]]
+file = "test/overrides/config/create-common.toml"
+hash = "36a4d9f5da68f6801b83ce0c4a1a8805fbeffb0dd997f2d405465d7774522296"
+
+[[files]]
+file = "test/overrides/config/create-server.toml"
+hash = "0954f1f111f7cbfa59b97e6e3e80e5233efcf93875bc488749e8cdcc43ce6092"
+
+[[files]]
+file = "test/overrides/config/enchant-tweaker.properties"
+hash = "533e8fa5efa40f0e4c033d68ee1fc20531965996e10d3b10784377e94da8b333"
+
+[[files]]
+file = "test/overrides/config/fallingtree.json"
+hash = "79adbaacb3981d7f2ebe428a16e6f43ad894ae0d5b19baa4053428a567957a97"
+
+[[files]]
+file = "test/overrides/config/farmersdelight.json"
+hash = "050ba20fca66274c6f8d408a07da0c91a9b30f54a0023639ebcb21bda5c0aa5f"
+
+[[files]]
+file = "test/overrides/config/flywheel.json"
+hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
+
+[[files]]
+file = "test/overrides/config/forgeconfigapiport.toml"
+hash = "ac070ed460bf105be08b98392544e52093232aaf2cee8e3db826bb709ed535cd"
+
+[[files]]
+file = "test/overrides/config/forgivingvoid-common.toml"
+hash = "1b6ef2b5e3dac0125793bc7eca327c9559f3d599817133d3452b12fe3c1030f0"
+
+[[files]]
+file = "test/overrides/config/globalxp.json5"
+hash = "9f7c7996709e52473a5f3baab02df39be8e102123d76566cc7d2f3467a131645"
+
+[[files]]
+file = "test/overrides/config/gravelminer-common.toml"
+hash = "b4aa55b45c0839bf69576e0c7eeca99f8d7f887c1d5f26a1bb28132342458b62"
+
+[[files]]
+file = "test/overrides/config/gravestones.json"
+hash = "172c377884b147a8014e31c4070d7e4d5f0a131cfcb4846370f2b7431959236e"
+
+[[files]]
+file = "test/overrides/config/life_crystals.json"
+hash = "025081b0855ff02145f4a50a16ce1fde92bae38837ae68a10859c79272de79f1"
+
+[[files]]
+file = "test/overrides/config/lootr.json"
+hash = "3903323b855dffa7da1ae5affee8ce6ba96ab11d342cdf10852269039343805b"
+
+[[files]]
+file = "test/overrides/config/moonlight-client.json"
+hash = "f1c8df5ae2439e69a736a48592d1486a09380d6c70ca69f020f7adcff9d09515"
+
+[[files]]
+file = "test/overrides/config/numismatic-overhaul.json5"
+hash = "dedd3c136687743b1a8b6464f6eab1d598338937ae575da3a4da110126b5c217"
+
+[[files]]
+file = "test/overrides/config/origins_server.json"
+hash = "15015fd014eb1b64731d6725841a60edb318638644f4953d65ed54042fe28148"
+
+[[files]]
+file = "test/overrides/config/pal.properties"
+hash = "d1ede439a0888a2cac02ab3e4c06cec3cf64ec472ca523ba808433b38bae190c"
+
+[[files]]
+file = "test/overrides/config/power_config.json5"
+hash = "44bbb89a6a4e53bfe018895f163c3b7f8c21c3bb259d2ce7784d2cb7b7305da9"
+
+[[files]]
+file = "test/overrides/config/projectile_damage.json"
+hash = "8c3eb2a4150a8575e522c02acbdd88f7d6a387e9caf07da4683d6df4b4abac29"
+
+[[files]]
+file = "test/overrides/config/readyplayerfun-common.toml"
+hash = "49661414f5cd74085acdea1ae6a7619382fca6f8b9f2cef5c6d9beb2006dc1a0"
+
+[[files]]
+file = "test/overrides/config/rpgdifficulty.json"
+hash = "35145298a53a58135e529d7c6cf9ca0d9c4f3d4928fc5d7acb88102f9918191d"
+
+[[files]]
+file = "test/overrides/config/shulkerboxslot-server.toml"
+hash = "40feaa58d4d562315325c561cf1e38f7fd2818d44a6d3efe4d441a7c90b667c6"
+
+[[files]]
+file = "test/overrides/config/shulkercharm.json5"
+hash = "5220d849c5cf43f7010a938c4c28bffda0dd3c933d1f9abe55f548b373034e42"
+
+[[files]]
+file = "test/overrides/config/spawnermod.json"
+hash = "3cf170f8185d47b4cbc1efe9476ecef40fce56ee03a433e0d315f9537adc94a7"
+
+[[files]]
+file = "test/overrides/config/stacksizeedit.json"
+hash = "bf6c15c040f25b21e4aa4f4866c6507b7ded791523166a9e23811fd919005621"
+
+[[files]]
+file = "test/overrides/config/supplementaries-client.json"
+hash = "97c5ea33f2bb03e27cb74b28e89d2670296b2b461f75230686533ec39b2aa61c"
+
+[[files]]
+file = "test/overrides/config/supplementaries-common.json"
+hash = "c92b05a65319b48f225627f09d9d87a08b9955fcd5d9af4df4091820e31eb970"
+
+[[files]]
+file = "test/overrides/config/tectonic.json"
+hash = "6182d9b5caace521a7429905796002e5f6c560e4a19828bfc79e057112084bfa"
+
+[[files]]
+file = "test/overrides/config/timecontrol.json"
+hash = "bbafcca316389374aac2a41162255bc2ec45e7429461ca1351b0ae4f508a1636"
+
+[[files]]
+file = "test/overrides/config/tlc.json"
+hash = "fa0f1e92e24116664d6040b92f61fb144d4227a537ea1613af4fd3c95273945e"
+
+[[files]]
+file = "test/overrides/config/vcinteraction/vcinteraction.properties"
+hash = "575324975b2e7bd78806d223877b706ab6cbf745e405d9af31fc6a9405f7e53c"
+
+[[files]]
+file = "test/overrides/config/waystones-common.toml"
+hash = "0085cad16f45032536777a50ad78d83b296db24923b8f4791f91768209fa2cd9"
+
+[[files]]
+file = "test/overrides/config/waystones-common.toml.bak1"
+hash = "951dcda290934fb0bd8de4e5c2d4df1b790c0074c4c4aacb54d18409c8206b62"
+
+[[files]]
+file = "test/overrides/mods/Animal Origins 2.1_1.20.1.jar"
+hash = "7d0566f0d14e37c11c6feaa7f928e22330d5aedfb9939ffdee0a56cedc1967b1"
+
+[[files]]
+file = "test/overrides/mods/AttributeFix-Fabric-1.20.1-21.0.4.jar"
+hash = "40583a0336c3106cae0624045fee09f1e271fc5840f4e6b21cec7867de176059"
+
+[[files]]
+file = "test/overrides/mods/BOMD-1.7.5-1.20.1.jar"
+hash = "85bec458ba79760be82085657865631afbbcd82e7b55b4948e63451c0dc685f2"
+
+[[files]]
+file = "test/overrides/mods/Bountiful-6.0.3+1.20.1-fabric.jar"
+hash = "7c8403e59e7039d4ca6b3c8d817f6ac1da60b026a823b8c9c29b4852f85b498a"
+
+[[files]]
+file = "test/overrides/mods/HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7.jar"
+hash = "060569d69d3fdc380473873ed5909cb8ee025e93a87ab11aaa4b235ec70795c1"
+
+[[files]]
+file = "test/overrides/mods/HopoBetterUnderwaterRuins-[1.20-1.20.2]-1.1.4b.jar"
+hash = "3dc22b49b819ba6a1b426588a5d2680fa7c0cc3bd6c50c23fd52fcec56a28b2d"
+
+[[files]]
+file = "test/overrides/mods/Kambrik-6.1.1+1.20.1-fabric.jar"
+hash = "c4f27750dab2a58124a94b58d4271819db05d6b2f5863391e4f0b6897fd047e1"
+
+[[files]]
+file = "test/overrides/mods/NoChatReports-FABRIC-1.20.1-v2.2.2.jar"
+hash = "8ff70525b0fbc5fa7592424872aa8092db1f7646d53817590bd9f9b88c75babc"
+
+[[files]]
+file = "test/overrides/mods/Orb_of_Origin_Plus_1.1-1.20.X.jar"
+hash = "1bbd732e649c905a1f07ce7a7079a1c75b5b5af61dd666392a953e902ad57bd6"
+
+[[files]]
+file = "test/overrides/mods/Origins-1.20.1-1.10.0.jar"
+hash = "c022f72118f6fc26ce2888ba4d09f11b303b1c586a4fa565e7292ebf3b838adb"
+
+[[files]]
+file = "test/overrides/mods/Pehkui-3.7.12+1.14.4-1.20.4.jar"
+hash = "7b60f53503ab165ad4a424fbb76208fe3fa3fd853eed1953c3c7517deeeb9cf9"
+
+[[files]]
+file = "test/overrides/mods/RPGOrigins-1.4.1.jar"
+hash = "acbcdcfd926971ba4b2b55c7ba960daf64902293233f6cb33a5afb5a80fb87fa"
+
+[[files]]
+file = "test/overrides/mods/YungsApi-1.20-Fabric-4.0.5.jar"
+hash = "4125e68b33eb342f3027a02d33f3392215c0806edd44d1c61cd2193d0aa6a72e"
+
+[[files]]
+file = "test/overrides/mods/advancednetherite-fabric-2.1.0-1.20.1.jar"
+hash = "dc332c3ad2448e0f377264ac49b586edbdcf1a00eef320b0323e5987dea81e84"
+
+[[files]]
+file = "test/overrides/mods/afk-announcer-v.1.0.2.jar"
+hash = "4043eb88189c3a767ef8b9c8caf03bc1fd2945bcfb54f23f78c8110a8d9bedcb"
+
+[[files]]
+file = "test/overrides/mods/altorigingui-1.20.1-1.0.1.jar"
+hash = "df196ddbbba647f9b1695d7a3dac208ae090f6bdc055360ea2d86b26df609895"
+
+[[files]]
+file = "test/overrides/mods/architectury-9.2.14-fabric.jar"
+hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
+
+[[files]]
+file = "test/overrides/mods/aspects-1.0.9-1.20.x.jar"
+hash = "c9109233fa812c2ffadb745a4c877ffbe40dc544228d7d0b547911859a8ca5ea"
+
+[[files]]
+file = "test/overrides/mods/balm-fabric-1.20.1-7.2.2.jar"
+hash = "fae0b80ee3cb3c1ac32ec28387d292f30b68654a91a8869fa5cc5e55129fb9bb"
+
+[[files]]
+file = "test/overrides/mods/bclib-3.0.14.jar"
+hash = "391fa2a8d7e369b088c66d1f230c3951e1d83f19d60555b2efea5394d8bcfc51"
+
+[[files]]
+file = "test/overrides/mods/beautify-1.1.0+fabric-1.20.jar"
+hash = "280b523f01b2a8dc14542781be88b678f9d3620c4603f80ff84ff0ad6c43b611"
+
+[[files]]
+file = "test/overrides/mods/better-end-4.0.11.jar"
+hash = "285feee4a2602ac66f7b4d92f0d972ac872aec513c2b61a8f6f447ca3dc08420"
+
+[[files]]
+file = "test/overrides/mods/better-nether-9.0.10.jar"
+hash = "a516b6be2576292639ee21c495be6cae3a9e3c5e9c84c6fbab092895c314fe64"
+
+[[files]]
+file = "test/overrides/mods/birdsboids-1.1.0.jar"
+hash = "22a032eace3818714e5a3608e61dfac8cd5a4461055f871aa60bb734a60266e2"
+
+[[files]]
+file = "test/overrides/mods/bitsandchisels-2.7.3.jar"
+hash = "5faae0810a8643b2cecd756600fae08265d713763a44c7e14f537e159af51ece"
+
+[[files]]
+file = "test/overrides/mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.5.jar"
+hash = "16a91977a48bfd1fc93e361204fdc95a5a8b3a261a136630bfde229f54b589ab"
+
+[[files]]
+file = "test/overrides/mods/caves__canyons-1.2.jar"
+hash = "1eff8fdf7e4359c696eee0b0626d6c9c0e94f325aec779b5f1bdeb185c85be58"
+
+[[files]]
+file = "test/overrides/mods/cloth-config-11.1.118-fabric.jar"
+hash = "1a5b6bfc5abb0516b2aa883f99ddff11af2faa5cebdf33beb52cd4e3cd37bb75"
+
+[[files]]
+file = "test/overrides/mods/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar"
+hash = "11a850d3689b4771d5fa705ffa7dd711827c69b71082956597e5d051471cc1ee"
+
+[[files]]
+file = "test/overrides/mods/create-structures-0.1.1-1.20.1-FABRIC.jar"
+hash = "3167a3a00232e115eab4afdab277e2d0c4d29c8bf68c77b57b5328cccb9db4f6"
+
+[[files]]
+file = "test/overrides/mods/elytraslot-quilt-6.3.0+1.20.1.jar"
+hash = "4cc1a4e271b71d2ad2cba52996a61c23d0e0e6e419381cf0f9524e769d69f9f6"
+
+[[files]]
+file = "test/overrides/mods/essential_1-3-2-4_fabric_1-20-1.jar"
+hash = "430c26bb42d8cfe1981113dfe8a57462dfec5c9aedd3217eb14a05a918cc7a49"
+
+[[files]]
+file = "test/overrides/mods/extra_boats-mc1.20-v2.1.jar"
+hash = "e000a705187ba33149923a8f176aa99542bfe83c0ae922f1c11299d81846f6fa"
+
+[[files]]
+file = "test/overrides/mods/extrakeybinds-0.5.0+1.17-1.19.4.jar"
+hash = "b25a2cbe80a2de1f6555a10e9bc3e992b64f5463ab16c0a0d01043c2b649d9df"
+
+[[files]]
+file = "test/overrides/mods/extraorigins-1.20-4.jar"
+hash = "ef842297274c35e30bdc50a1f02bc3cf42a7a2d9717e87b6a222818a185a1d42"
+
+[[files]]
+file = "test/overrides/mods/fabric-api-0.92.0+1.20.1.jar"
+hash = "d41b4489d43afff0abda28ab5654739303d0e46a2f10181cf961089f8f2ec1da"
+
+[[files]]
+file = "test/overrides/mods/fabric-language-kotlin-1.10.18+kotlin.1.9.22.jar"
+hash = "8fbbf5238e02178f284cd2e35aad253a0a14874de05075d2f39c573aada22e12"
+
+[[files]]
+file = "test/overrides/mods/farmers-delight-fabric-1.4.3.jar"
+hash = "ea9d91b0a9d5d03abe8388d6e6af429baefe1da2ecc95753b045cea5bd6ed98a"
+
+[[files]]
+file = "test/overrides/mods/geckolib-fabric-1.20.1-4.4.4.jar"
+hash = "29e535821b0f695c29b2a680d9828b04674f3862a5d65155ee7e053cbedbf057"
+
+[[files]]
+file = "test/overrides/mods/globalxp-fabric-1.20.1-1.11.jar"
+hash = "45f69de6587fd807e5e5ac63950ed5aea3b7ea92589aa6fdbcf6d49a8baaa8d4"
+
+[[files]]
+file = "test/overrides/mods/gravestones-1.0.3-1.20.1.jar"
+hash = "79911006b43c4c8b72e9395c6204adf369570bd0266c93f3521a8bfce1c55ea4"
+
+[[files]]
+file = "test/overrides/mods/hybrid-aquatic-1.3.2.jar"
+hash = "4a89edacbc70b827173b4b3373c62f63215ea62963cd4019b4e14613db87a0e7"
+
+[[files]]
+file = "test/overrides/mods/letsdo-API-fabric-1.2.12-fabric.jar"
+hash = "ada9f5fe854fb30e86414258e9fd9de75c96379addfb27467508488c2e8da23e"
+
+[[files]]
+file = "test/overrides/mods/life-crystals-1.0.3+1.20.1.jar"
+hash = "b4401cfe2f040225479a18c94f5dcbc92573858008a23be82d8d8d520de817cb"
+
+[[files]]
+file = "test/overrides/mods/lootr-1.20-0.7.30.77.jar"
+hash = "72e6ab719b25f44f0818a2370a06e322a19273746f1925f65bb4c1069982fe54"
+
+[[files]]
+file = "test/overrides/mods/moborigins-1.11.1.jar"
+hash = "57d83e17257f33ca54a486254dbf14bbedba6f22ca43850e8ba46e500ee6a808"
+
+[[files]]
+file = "test/overrides/mods/moonlight-1.20-2.11.0-fabric.jar"
+hash = "cd018d64dcfaa7171022d7a40b21e34d18fddc2fb851a41d4edfbb80eafd7268"
+
+[[files]]
+file = "test/overrides/mods/numismatic-overhaul-0.2.14+1.20.jar"
+hash = "9e781315d2026db16fd601681b1f97a515d582ea5d7f54c33a03fb1900270aec"
+
+[[files]]
+file = "test/overrides/mods/owo-lib-0.11.2+1.20.jar"
+hash = "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12"
+
+[[files]]
+file = "test/overrides/mods/pneumonocore-1.1.3+1.20.1.jar"
+hash = "6dc26528cc3db9497cb5b8b3606c20cc13917f8293bd83446112e756bf9ed900"
+
+[[files]]
+file = "test/overrides/mods/projectile_damage-fabric-3.2.2+1.20.1.jar"
+hash = "959bf5a3600a6b5f15f4138b19667b26daeb8fb49940218fdfa7f91563d33bc2"
+
+[[files]]
+file = "test/overrides/mods/rpgdifficulty-1.3.13.jar"
+hash = "f3ea9557deeed22408f2e8eda69270b97730ddcee3f9de47e50ea84653809ef0"
+
+[[files]]
+file = "test/overrides/mods/show-dimension-in-name-v.1.0.1.jar"
+hash = "30b30b1b83a786dfa315985afb3febe40927e8bd78a5c74375037ebce5ed8a39"
+
+[[files]]
+file = "test/overrides/mods/shulkerboxslot-fabric-5.1.1+1.20.1.jar"
+hash = "de4f19d8401a499352e4e1b0664da078a00c6af6f3ca171b2e6988338d09636e"
+
+[[files]]
+file = "test/overrides/mods/shulkercharm-1.2.0.jar"
+hash = "5e45a65ee852de6a47a334fc6faaf98532bf2a76e19e49fe9c4922736ee1a015"
+
+[[files]]
+file = "test/overrides/mods/spawnermod-1.20.1-1.2.4+Fabric.jar"
+hash = "4d602a23bbfef9c40ef1dc93a4ea58b6a63a3637aa60e53d9ef6e06d8a8395e0"
+
+[[files]]
+file = "test/overrides/mods/stars_steel-1.1.0.jar"
+hash = "9992bdfd043f929db5b45d0cb33c9b1059e470b9aa84dafba825730178bf08aa"
+
+[[files]]
+file = "test/overrides/mods/supplementaries-1.20-2.8.4-fabric.jar"
+hash = "26d4abfbc00761692e2409ee2216d554401ee3d3647072a3fe285dafc16d83a0"
+
+[[files]]
+file = "test/overrides/mods/tectonic-mod-1.19.3-v2.2.jar"
+hash = "ec7da8b64073ad4ab475a67b3d31bbfddc1e26637b062d5f136a1f58da9e86c9"
+
+[[files]]
+file = "test/overrides/mods/timecontrol-1.20.1-1.6.0.jar"
+hash = "2a2e891bcbc3ee1eaed3cb8a97d79ecd4571add3ad227257488aa7ef3215185a"
+
+[[files]]
+file = "test/overrides/mods/tlc-fabric-1.0.1-1.20.X.jar"
+hash = "8016c629ec0d0fbbe740690ac8555c4f3dfd133e1e8767a12df9aaea713a9117"
+
+[[files]]
+file = "test/overrides/mods/trinkets-3.7.1.jar"
+hash = "6ec3c49dfaefb8753da2de99fae2feef63f1653b4267ee8bac22d2298d0d9be6"
+
+[[files]]
+file = "test/overrides/mods/voicechat-fabric-1.20.1-2.5.8.jar"
+hash = "44f52d0a17467030c0d1e5518bf4002f0e41434278f64ead894c84a5b1e6b66a"
+
+[[files]]
+file = "test/overrides/mods/waystones-fabric-1.20-14.1.3.jar"
+hash = "821fb6272386d77c9ab6928751125100992c1ee567f7ed8681c6a4a9a240e34c"
+
+[[files]]
+file = "test/overrides/template/Starforged.png"
+hash = "812d5b10c9a84b9129710d6c7a1a841300a32a7ae4c366069ae6204aa4e3b6b0"
+
+[[files]]
+file = "test/overrides/template/instance.cfg"
+hash = "af372092e08a5fde0eae08ee1c3c923e5c3c10521086df47f4e941b4f311d34b"
+
+[[files]]
+file = "test/overrides/template/mmc-pack.json"
+hash = "fdd79e6030003ccb297dd68f417d56b1592c6f680242d2120de373007980837e"
+
+[[files]]
+file = "test/overrides/test/Serenity.1.20.1.zip"
+hash = "e655580e33d85fcf023e50333ff3552868f0f133c5a1b3d7a5a96aa5ee1b3a14"

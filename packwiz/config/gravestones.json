@@ -1,0 +1,15 @@
+{
+  "aesthetic_gravestones": "true",
+  "decay_with_time": "true",
+  "decay_with_deaths": "true",
+  "decay_time": "576000",
+  "decay_time_type": "REAL_TIME",
+  "store_experience": "true",
+  "experience_decay": "false",
+  "gravestone_accessible_owner_only": "true",
+  "spawn_gravestone_skeletons": "false",
+  "broadcast_collect_in_chat": "false",
+  "broadcast_coordinates_in_chat": "false",
+  "console_info": "false",
+  "time_format": "MM/dd/yyyy HH:mm:ss"
+}

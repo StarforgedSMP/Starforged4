@@ -1,0 +1,13 @@
+name = "Acclaimed Origins"
+filename = "Acclaimed-Origins-1.0.2-Global-Fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VJQ3A7Ue/versions/H1GeTlAm/Acclaimed-Origins-1.0.2-Global-Fabric.jar"
+hash-format = "sha1"
+hash = "7819cf65371a69b72f2eaf3118bf377eea0c9d1e"
+
+[update]
+[update.modrinth]
+mod-id = "VJQ3A7Ue"
+version = "H1GeTlAm"

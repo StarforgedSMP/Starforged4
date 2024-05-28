@@ -1,0 +1,13 @@
+name = "Show Dimension In Name"
+filename = "show-dimension-in-name-v.1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hXdoMWYD/versions/AQGytiiZ/show-dimension-in-name-v.1.0.1.jar"
+hash-format = "sha1"
+hash = "702ef921ba7e406f66f854c1f535bfba00fbe440"
+
+[update]
+[update.modrinth]
+mod-id = "hXdoMWYD"
+version = "AQGytiiZ"

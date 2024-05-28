@@ -1,0 +1,13 @@
+name = "Origins Extra Keybinds"
+filename = "extrakeybinds-0.5.0+1.17-1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6b2RpJpx/versions/G4UwAmju/extrakeybinds-0.5.0%2B1.17-1.19.4.jar"
+hash-format = "sha1"
+hash = "8443586048b6e43253bb05a0db10b52becc6faf2"
+
+[update]
+[update.modrinth]
+mod-id = "6b2RpJpx"
+version = "G4UwAmju"

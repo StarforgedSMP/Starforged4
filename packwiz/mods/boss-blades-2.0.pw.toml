@@ -1,0 +1,13 @@
+name = "Boss Blades 2.0"
+filename = "BossBlades-Fabric-1.20.1-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/HWTzL9KT/versions/BiEZlN1N/BossBlades-Fabric-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "f1025da1fe590b6ac00ea54d8a5f1f42784f8ff2"
+
+[update]
+[update.modrinth]
+mod-id = "HWTzL9KT"
+version = "BiEZlN1N"

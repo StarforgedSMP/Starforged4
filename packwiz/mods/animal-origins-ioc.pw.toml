@@ -1,0 +1,13 @@
+name = "Animal Origins - Infinite Origins"
+filename = "Animal Origins 2.1_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dcmmoHJI/versions/KDjvbPak/Animal%20Origins%202.1_1.20.1.jar"
+hash-format = "sha1"
+hash = "a81cab8e4083265844a9ff4ba6eaad351c8126e4"
+
+[update]
+[update.modrinth]
+mod-id = "dcmmoHJI"
+version = "KDjvbPak"

@@ -1,0 +1,12 @@
+
+[Server]
+	#doFireTick default value. Used if forceGameRules is set to true.
+	doFireTick = true
+	#randomTickSpeed default value. Used if forceGameRules is set to true.
+	#Range: 0 ~ 50
+	randomTickSpeed = 3
+	#Force game rules regardless of server setting for 'paused' rules.
+	forceGameRules = false
+	#Show status message on first player login after server unpaused.
+	enableWelcomeMessage = true
+

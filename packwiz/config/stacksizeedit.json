@@ -1,0 +1,10 @@
+{
+  "maxStacker": 9999,
+  "itemOverride": [
+    "#c:not_stackable:1",
+    "numismatic-overhaul:bronze_coin:100",
+    "numismatic-overhaul:silver_coin:100"
+  ],
+  "fontOverride": true,
+  "itemCountScaleInt": 25
+}

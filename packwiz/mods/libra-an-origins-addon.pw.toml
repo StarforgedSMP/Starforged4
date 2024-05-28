@@ -1,0 +1,13 @@
+name = "An Origins Addon - Libra"
+filename = "libra-0.5.45.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb88c28c6d7fb8dd7b88a0d5a1ffa5f74c7c832c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5210380
+project-id = 478492

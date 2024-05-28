@@ -1,0 +1,13 @@
+name = "RPG Origins"
+filename = "RPGOrigins-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2x88uc2n/versions/QyC9AHnT/RPGOrigins-1.4.1.jar"
+hash-format = "sha1"
+hash = "228ce55c92f91d1ab6f580e025c1e8410233a1be"
+
+[update]
+[update.modrinth]
+mod-id = "2x88uc2n"
+version = "QyC9AHnT"

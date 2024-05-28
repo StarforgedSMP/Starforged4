@@ -1,0 +1,13 @@
+name = "Expansive Ravines"
+filename = "expansiveravines-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rJ4Cexi8/versions/IGoFMqjy/expansiveravines-1.0.0.jar"
+hash-format = "sha1"
+hash = "27b340f628cfe9d23b7dfa10512fb9492e3905a9"
+
+[update]
+[update.modrinth]
+mod-id = "rJ4Cexi8"
+version = "IGoFMqjy"

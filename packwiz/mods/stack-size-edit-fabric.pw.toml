@@ -1,0 +1,13 @@
+name = "Stack Size Edit [Fabric]"
+filename = "stacksizeedit-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6e18a7a5561b044af3ae5087c68d593c6e72853"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5041336
+project-id = 963444
