@@ -1,0 +1,12 @@
+/.git*
+/README.md
+/LICENSE
+/CNAME
+/profile_defaults
+/*.mrpack
+/docs
+/flake.nix
+/flake.lock
+/.direnv/
+/.envrc
+

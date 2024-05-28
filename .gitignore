@@ -1,0 +1,10 @@
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Nix
+/.direnv/
+result*
+
+# Ignore in-dev testing files and directories
+test/
+template/
