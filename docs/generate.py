@@ -41,7 +41,7 @@ def generate_markdown(mods_info):
     return markdown_content
 
 
-def main(mods_directory):
+def main(mods_directory, output_path="./index.md"):
     mods_info = []
     # Process all.pw.toml files
     for file_path in Path(mods_directory).glob("*.pw.toml"):
@@ -50,12 +50,12 @@ def main(mods_directory):
         mods_info.append((mod_name, mod_id))
 
     # Generate and write markdown content
-    markdown_file_path = Path(__file__).resolve().parent / "./index.md"
+    markdown_file_path = Path(output_path)
     markdown_content = generate_markdown(mods_info)
     with markdown_file_path.open("w", encoding="utf-8", newline="\n") as markdown_file:
         markdown_file.write(markdown_content)
 
-    print("Markdown file generated successfully!")
+    print(f"Markdown file generated successfully at: {markdown_file_path}")
 
 
 if __name__ == "__main__":
@@ -65,6 +65,12 @@ if __name__ == "__main__":
         type=str,
         help="Path to the directory containing.pw.toml files",
     )
+    parser.add_argument(
+        "--output-path",
+        type=str,
+        default="./index.md",
+        help="Path to save the generated markdown file",
+    )
     args = parser.parse_args()
 
-    main(args.mods_directory)
+    main(args.mods_directory, args.output_path)
