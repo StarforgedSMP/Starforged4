@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/a"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-
-[[files]]
 file = "config/amendments-client.json"
 hash = "da0795a8437cc026cdd58b936c1f247399e2e08738af58ee93436ffd43f98809"
 
@@ -186,11 +182,11 @@ hash = "fa0f1e92e24116664d6040b92f61fb144d4227a537ea1613af4fd3c95273945e"
 
 [[files]]
 file = "config/vcinteraction/vcinteraction.properties"
-hash = "575324975b2e7bd78806d223877b706ab6cbf745e405d9af31fc6a9405f7e53c"
+hash = "1314849d293d59fdaf7de7e2c24516d767c8b97068b2852e5e7592d210410320"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "0085cad16f45032536777a50ad78d83b296db24923b8f4791f91768209fa2cd9"
+hash = "c7482d879a9099f4d2660f71c9a5aad54cc4289b9567077c4e5fde149795b9a6"
 
 [[files]]
 file = "config/waystones-common.toml.bak1"
@@ -654,15 +650,3 @@ metafile = true
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "925ed414ce82dd8e694288782a43a9ebaa5eb1752d7ad4e4ce3dd359040402e5"
 metafile = true
-
-[[files]]
-file = "template/Starforged.png"
-hash = "812d5b10c9a84b9129710d6c7a1a841300a32a7ae4c366069ae6204aa4e3b6b0"
-
-[[files]]
-file = "template/instance.cfg"
-hash = "af372092e08a5fde0eae08ee1c3c923e5c3c10521086df47f4e941b4f311d34b"
-
-[[files]]
-file = "template/mmc-pack.json"
-hash = "fdd79e6030003ccb297dd68f417d56b1592c6f680242d2120de373007980837e"
