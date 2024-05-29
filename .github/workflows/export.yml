@@ -7,15 +7,22 @@ on:
     branches: [main]
 
 jobs:
-  lints:
+  publish-modpacks:
     name: Build
     runs-on: ubuntu-latest
+
     permissions:
-      contents: read
+      contents: write
       id-token: write
+
+    env:
+      GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: Install Nix
         uses: DeterminateSystems/nix-installer-action@main
