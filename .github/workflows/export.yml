@@ -39,12 +39,12 @@ jobs:
           cd packwiz
 
           # Platform specific exports
-          packwiz modrinth export --output "Starforged4-1.20.1-modrinth.zip"
-          packwiz curseforge export --output "Starforged4-1.20.1-curseforge.zip"
+          packwiz modrinth export --output "../Starforged4-1.20.1-modrinth.zip"
+          packwiz curseforge export --output "../Starforged4-1.20.1-curseforge.zip"
 
       - name: Extract Configurations
         run: |
-          MODRINTH_ZIP="./packwiz/Starforged4-1.20.1-curseforge.zip"
+          MODRINTH_ZIP="Starforged4-1.20.1-curseforge.zip"
 
           # extract the specified directories
           unzip "$MODRINTH_ZIP" -d ./
