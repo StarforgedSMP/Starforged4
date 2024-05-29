@@ -6,9 +6,9 @@ private server, Starforged. Designd to be used with
 
 ## Documentation
 
-- [Installation](/docs/installation/)
-- [Modlist](/docs/modlist/)
-- [Mod Instruductions](/docs/mod_introductions/)
+- [Installation](docs/installation/)
+- [Modlist](docs/modlist/)
+- [Mod Instruductions](docs/mod_introductions/)
 
 ## Hacking
 
