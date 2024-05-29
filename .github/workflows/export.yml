@@ -1,0 +1,56 @@
+name: Publish Modpacks
+
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  lints:
+    name: Build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@main
+
+      - name: Magic Nix Cache
+        uses: DeterminateSystems/magic-nix-cache-action@main
+
+      - name: Install packwiz
+        run: nix profile install nixpkgs#packwiz
+
+      - name: Export Modpacks
+        run: |
+          # Move to the packwiz configuration root
+          cd packwiz
+
+          # Platform specific exports
+          packwiz modrinth export --output "Starforged4-1.20.1-modrinth.zip"
+          packwiz curseforge export --output "Starforged4-1.20.1-curseforge.zip"
+
+      - name: Extract Configurations
+        run: |
+          MODRINTH_ZIP="Starforged4-1.20.1-curseforge.zip"
+
+          # extract the specified directories
+          unzip "$MODRINTH_ZIP" -d ./
+
+          # Re-archive mods and configurations as a standalone
+          # arhive. We can't isolate those two directories with
+          # the `unzip` command for some obscure reason
+          zip -r "Starforged4-1.20.1-generic.zip" overrides/mods overrides/config
+
+      - name: Packs-release-{{ github.sha }}
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            Starforged4-1.20.1-modrinth.zip
+            Starforged4-1.20.1-curseforge.zip
+            Starforged4-1.20.1-generic.zip
