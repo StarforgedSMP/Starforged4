@@ -3,6 +3,11 @@ from pathlib import Path
 import re
 
 
+def sanitize_mod_name(name):
+    """Sanitizes a mod name by replacing invalid characters with a hyphen."""
+    return re.sub(r"[^a-zA-Z0-9_-]", "-", name)
+
+
 def read_toml_file(file_path):
     """Reads the contents of a TOML file."""
     try:
@@ -18,9 +23,11 @@ def extract_mod_info(content):
     mod_name_match = re.search(r'name = "([^"]+)"', content)
     mod_id_match = re.search(r'mod-id = "([^"]+)"', content)
     if mod_name_match and mod_id_match:
-        return mod_name_match.group(1), mod_id_match.group(1)
+        sanitized_mod_name = sanitize_mod_name(mod_name_match.group(1))
+        return sanitized_mod_name, mod_id_match.group(1)
     elif mod_name_match:
-        return mod_name_match.group(1), None
+        sanitized_mod_name = sanitize_mod_name(mod_name_match.group(1))
+        return sanitized_mod_name, None
     else:
         return None, None
 
