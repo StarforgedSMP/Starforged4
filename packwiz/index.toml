@@ -182,11 +182,11 @@ hash = "fa0f1e92e24116664d6040b92f61fb144d4227a537ea1613af4fd3c95273945e"
 
 [[files]]
 file = "config/vcinteraction/vcinteraction.properties"
-hash = "1314849d293d59fdaf7de7e2c24516d767c8b97068b2852e5e7592d210410320"
+hash = "575324975b2e7bd78806d223877b706ab6cbf745e405d9af31fc6a9405f7e53c"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "c7482d879a9099f4d2660f71c9a5aad54cc4289b9567077c4e5fde149795b9a6"
+hash = "0085cad16f45032536777a50ad78d83b296db24923b8f4791f91768209fa2cd9"
 
 [[files]]
 file = "config/waystones-common.toml.bak1"
