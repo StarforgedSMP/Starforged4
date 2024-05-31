@@ -53,9 +53,6 @@ jobs:
             instance.cfg mmc-pack.json starforged_4_icon.png \
             packwiz-installer-bootstrap.jar
 
-          # Move
-          mv Starforged4-1.20.1-prismlauncher-zip ../
-
       - name: Generate "Generic" Pack
         run: |
           nix run .#packwiz-installer-bootstrap -- -g https://starforgedsmp.github.io/Starforged4/packwiz/pack.toml -s both
@@ -64,9 +61,6 @@ jobs:
           # "generic" pack with minimal dependencies
           zip -r "Starforged4-1.20.1-generic.zip" \
             mods config
-
-          # Move
-          mv Starforged4-1.20.1-generic.zip ../
 
       - name: Get current date
         id: get-date
