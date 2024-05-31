@@ -33,7 +33,7 @@ jobs:
       - name: Install packwiz
         run: nix profile install nixpkgs#packwiz
 
-      - name: Export Modpacks
+      - name: Export Curseforge & Modrinth Profiles
         run: |
           # Move to the packwiz configuration root
           cd packwiz
@@ -42,17 +42,35 @@ jobs:
           packwiz modrinth export --output "../Starforged4-1.20.1-modrinth.zip"
           packwiz curseforge export --output "../Starforged4-1.20.1-curseforge.zip"
 
-      - name: Extract Configurations
+      - name: Generate "Generic" Pack
         run: |
-          MODRINTH_ZIP="Starforged4-1.20.1-curseforge.zip"
+          cd packwiz
 
-          # extract the specified directories
-          unzip "$MODRINTH_ZIP" -d ./
+          nix run .#packwiz-installer-bootstrap -- -g https://starforgedsmp.github.io/Starforged4/packwiz/pack.toml -s both
 
-          # Re-archive mods and configurations as a standalone
-          # arhive. We can't isolate those two directories with
-          # the `unzip` command for some obscure reason
-          zip -r "Starforged4-1.20.1-generic.zip" overrides/mods overrides/config
+          # Fetch mods using the installer-bootstrap to generate
+          # "generic" pack with minimal dependencies
+          zip -r "Starforged4-1.20.1-generic.zip" \
+            mods config
+
+          # Move
+          mv Starforged4-1.20.1-generic.zip ../
+
+      - name: Generate Prismlauncher Profile
+        run: |
+          cd packwiz
+
+          nix run .#packwiz-installer-bootstrap -- -g https://starforgedsmp.github.io/Starforged4/packwiz/pack.toml -s both
+
+          # Fetch mods using the installer-bootstrap to generate Prismlauncher
+          # profile.
+          zip -r "Starforged4-1.20.1-prismlauncher-zip" \
+            config mods intex.toml pack.toml \
+            instance.cfg mmc-pack.json starforged_4_icon.png \
+            packwiz-installer-bootstrap.jar
+
+          # Move
+          mv Starforged4-1.20.1-prismlauncher-zip ../
 
       - name: Get current date
         id: get-date
@@ -68,11 +86,16 @@ jobs:
             Starforged4-1.20.1-modrinth.zip
             Starforged4-1.20.1-curseforge.zip
             Starforged4-1.20.1-generic.zip
+            Starforged4-1.20.1-prismlauncher.zip
+
           body: |
             # Automatic Modpack Releases
 
             - Built on: ${{ steps.get-date.outputs.date }}
             - Revision: ${{ github.sha }}
+
+
+
 
             This automated workflow will generate the modpack archives for **Modrinth** and **Curseforge**
             modpack formats. If you use a launcher capable of importing those modpack formats, you may
