@@ -94,12 +94,14 @@ jobs:
             - Built on: ${{ steps.get-date.outputs.date }}
             - Revision: ${{ github.sha }}
 
+            [Installation]: https://starforgedsmp.github.io/Starforged4/docs/installation/
 
+            This automated workflow will generate modpack archives (indicated by the target
+            of the pack in the filename) for **Modrinth**, **Curseforge** and **Prismlauncher**.
 
-
-            This automated workflow will generate the modpack archives for **Modrinth** and **Curseforge**
-            modpack formats. If you use a launcher capable of importing those modpack formats, you may
-            consider downloading the appropriate modpack archive.
+            If you use a supported launcher with importing capabilities for packs of above formats, you
+            may consider downloading the appropriate pack for your launcher. Please take a look at
+            [the documentation](installation) for tips specific to your launcher.
 
             For users without compatible launchers, or for those that want a more hands-on approach to
             their mod management, a "generic" archive is generated. The generic pack will contain ONLY
