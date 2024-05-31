@@ -194,7 +194,7 @@ hash = "951dcda290934fb0bd8de4e5c2d4df1b790c0074c4c4aacb54d18409c8206b62"
 
 [[files]]
 file = "instance.cfg"
-hash = "9c2ec2b1cb9867b1454dc3fb3f43168a6deea23c26bac2cec7e8b69467d8f490"
+hash = "3cb4be92e0173c17845c7fb656a5f21d0a99c16262c5ccc11fbaf5d93f1e3f19"
 
 [[files]]
 file = "mmc-pack.json"
@@ -658,6 +658,10 @@ metafile = true
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "925ed414ce82dd8e694288782a43a9ebaa5eb1752d7ad4e4ce3dd359040402e5"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "starforged_4_icon.png"
