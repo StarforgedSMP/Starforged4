@@ -62,7 +62,7 @@ jobs:
       - name: Packs-release-{{ github.sha }}
         uses: softprops/action-gh-release@v2
         with:
-          ame: "Starforged4 Modpacks (Rev: ${{ steps.get-date.outputs.date }})"
+          name: "Starforged4 Modpacks (Rev: ${{ steps.get-date.outputs.date }})"
           tag_name: "${{ steps.get-date.outputs.date }}"
           files: |
             Starforged4-1.20.1-modrinth.zip
