@@ -193,6 +193,14 @@ file = "config/waystones-common.toml.bak1"
 hash = "951dcda290934fb0bd8de4e5c2d4df1b790c0074c4c4aacb54d18409c8206b62"
 
 [[files]]
+file = "instance.cfg"
+hash = "9c2ec2b1cb9867b1454dc3fb3f43168a6deea23c26bac2cec7e8b69467d8f490"
+
+[[files]]
+file = "mmc-pack.json"
+hash = "33a18ff22bffd6ce59929b2b5ebf3986cac8d4b704f0fbb6c12570c852e5ac60"
+
+[[files]]
 file = "mods/acclaimed-origins.pw.toml"
 hash = "6a25a93c0e3c4ef8d9a837607629d6d8b40ee55ba65a39d790cf198abc4ee4d0"
 metafile = true
@@ -650,3 +658,7 @@ metafile = true
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "925ed414ce82dd8e694288782a43a9ebaa5eb1752d7ad4e4ce3dd359040402e5"
 metafile = true
+
+[[files]]
+file = "starforged_4_icon.png"
+hash = "812d5b10c9a84b9129710d6c7a1a841300a32a7ae4c366069ae6204aa4e3b6b0"
