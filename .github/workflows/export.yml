@@ -19,55 +19,56 @@ jobs:
       GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
     steps:
-      - name: Checkout
+      - name: "Checkout"
         uses: actions/checkout@v4
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
 
-      - name: Install Nix
+      - name: "Install Nix"
         uses: DeterminateSystems/nix-installer-action@main
 
-      - name: Magic Nix Cache
+      - name: "Magic Nix Cache"
         uses: DeterminateSystems/magic-nix-cache-action@main
 
-      - name: Install packwiz
-        run: nix profile install nixpkgs#packwiz
+      - name: "Install packwiz & friends"
+        run: |
+          nix profile install nixpkgs#packwiz
+          nix profile install .#packwiz-installer-bootstrap
 
-      - name: Export Curseforge & Modrinth Profiles
+      - name: "Export Curseforge & Modrinth Profiles"
         run: |
           # Move to the packwiz configuration root
           cd packwiz
 
           # Platform specific exports
-          packwiz modrinth export --output "../Starforged4-1.20.1-modrinth.zip"
+          packwiz modrinth export --output "../Starforged4-1.20.1-modrinth.mrpack"
           packwiz curseforge export --output "../Starforged4-1.20.1-curseforge.zip"
 
-      - name: Generate Prismlauncher Profile
+          # Move back
+          cd ../
+
+      - name: "Generate additional pack formats"
         run: |
-          nix run .#packwiz-installer-bootstrap -- -g https://starforgedsmp.github.io/Starforged4/packwiz/pack.toml -s both
+          packwiz-installer-bootstrap -g https://starforgedsmp.github.io/Starforged4/packwiz/pack.toml -s both
 
           # Fetch mods using the installer-bootstrap to generate Prismlauncher
           # profile.
           zip -r "Starforged4-1.20.1-prismlauncher-zip" \
-            config mods intex.toml pack.toml \
+            config mods \
             instance.cfg mmc-pack.json starforged_4_icon.png \
             packwiz-installer-bootstrap.jar
 
-      - name: Generate "Generic" Pack
-        run: |
-          nix run .#packwiz-installer-bootstrap -- -g https://starforgedsmp.github.io/Starforged4/packwiz/pack.toml -s both
-
-          # Fetch mods using the installer-bootstrap to generate
-          # "generic" pack with minimal dependencies
+          # Use fetched mods and config directories (but nothing else)
+          # to create a "generic" pack for standalone installations
           zip -r "Starforged4-1.20.1-generic.zip" \
             mods config
 
-      - name: Get current date
+      - name: "Get current date"
         id: get-date
         # output format: 2023-12-30-234559
         run: echo "date=$(date +'%Y-%m-%d-%H%M%S')" >> "${GITHUB_OUTPUT}"
 
-      - name: Packs-release-{{ github.sha }}
+      - name: "Release exported modpacks"
         uses: softprops/action-gh-release@v2
         with:
           name: "Starforged4 Modpacks (Rev: ${{ steps.get-date.outputs.date }})"
@@ -75,8 +76,8 @@ jobs:
           files: |
             Starforged4-1.20.1-modrinth.zip
             Starforged4-1.20.1-curseforge.zip
-            Starforged4-1.20.1-generic.zip
             Starforged4-1.20.1-prismlauncher.zip
+            Starforged4-1.20.1-generic.zip
 
           body: |
             # Automatic Modpack Releases
