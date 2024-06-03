@@ -7,7 +7,6 @@ baseurl: /docs/installation/
 description: >
   Documentation for the 4th iteration of Starforged
 
-markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
