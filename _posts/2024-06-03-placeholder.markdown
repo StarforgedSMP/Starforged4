@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Placeholder"
-date: 2024-06-03 23:48
-categories: jekyll update
+categories: misc
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
