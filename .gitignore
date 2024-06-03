@@ -8,3 +8,7 @@ result*
 # Ignore in-dev testing files and directories
 test/
 template/
+
+# Jekyll
+_site/
+Gemfile.lock
