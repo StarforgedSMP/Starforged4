@@ -6,6 +6,8 @@ author:
 description: >-
   Documentation for the 4th iteration of Starforged
 
+copyright_notice: "© 2024 Starforged Team. All Rights Reserved."
+
 theme: minima
 plugins:
   - jekyll-feed
@@ -16,7 +18,7 @@ header_pages:
   - docs/modlist/index.md
 
 # Set to `true` to show excerpts on the homepage.
-show_excerpts: false
+show_excerpts: true # if we ever need to write blogposts
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
