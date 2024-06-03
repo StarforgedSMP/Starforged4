@@ -16,6 +16,7 @@ plugins:
 header_pages:
   - docs/installation/index.md
   - docs/modlist/index.md
+  - posts.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true # if we ever need to write blogposts
