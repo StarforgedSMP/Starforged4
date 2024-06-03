@@ -3,8 +3,7 @@ author:
   name: NotAShelf
   email: raf@notashelf.dev
 
-baseurl: /docs/installation/
-description: >
+description: >-
   Documentation for the 4th iteration of Starforged
 
 theme: minima
@@ -23,3 +22,8 @@ show_excerpts: true
 minima:
   skin: dark
   date_format: "%b-%d-%Y"
+  social_links:
+    - {
+        platform: github,
+        user_url: "https://github.com/StarforgedSMP/Starforged4",
+      }
