@@ -23,6 +23,7 @@ show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
+  skin: dark
   date_format: "%b-%d-%Y"
   social-links:
     - {
