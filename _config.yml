@@ -1,7 +1,4 @@
 title: "Starforged Documentation"
-author:
-  name: NotAShelf
-  email: raf@notashelf.dev
 
 description: >-
   Documentation for the 4th iteration of Starforged
@@ -16,14 +13,11 @@ header_pages:
   - docs/modlist/index.md
 
 # Set to `true` to show excerpts on the homepage.
-show_excerpts: true
+show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   skin: dark
   date_format: "%b-%d-%Y"
-  social_links:
-    - {
-        platform: github,
-        user_url: "https://github.com/StarforgedSMP/Starforged4",
-      }
+  social-links:
+    - { platform: github, user_url: "https://github.com/StarforgedSMP" }
