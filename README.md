@@ -60,8 +60,6 @@ available under [the same relative path](docs).
 
 - Star's Steel
 
----
-
 [^1]:
     As of writing this page, only MultiMC, PolyMC and PrismLauncher are known
     to be capable of importing Curseforge and Modrinth modpacks from exported
