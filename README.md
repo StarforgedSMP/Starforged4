@@ -4,14 +4,6 @@ A repository containing a 1.20.1 Fabric modpack and infrastructure meant for a
 private server, Starforged. Designd to be used with
 [packwiz](https://github.com/packwiz/packwiz)
 
-## Documentation
-
-Below are available documentation pages on the Modpack, and the server itself.
-
-- [Installation](docs/installation/)
-- [Modlist](docs/modlist/)
-- [Mod Instruductions](docs/mod_introductions/)
-
 ## Hacking
 
 Notes on working with and developing this package or/and infrastructure. If you
