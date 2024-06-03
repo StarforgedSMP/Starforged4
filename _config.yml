@@ -19,7 +19,7 @@ header_pages:
   - posts.md
 
 # Set to `true` to show excerpts on the homepage.
-show_excerpts: true # if we ever need to write blogposts
+show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
