@@ -5,10 +5,6 @@ file = ".minecraft/packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
-file = ".minecraft/servers.dat"
-hash = "dacf841ba624764d2e44351214c93582fd12a5b800ba39e7c5a54f2ac4278d02"
-
-[[files]]
 file = "config/amendments-client.json"
 hash = "da0795a8437cc026cdd58b936c1f247399e2e08738af58ee93436ffd43f98809"
 
