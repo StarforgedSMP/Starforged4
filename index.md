@@ -2,10 +2,9 @@
 layout: home
 ---
 
-## Documentation
+Welcome to Starforged 4 documentation! Below are available documentation pages
+on the Modpack, and the server itself.
 
-Below are available documentation pages on the Modpack, and the server itself.
-
-- [Installation](docs/installation/)
-- [Modlist](docs/modlist/)
-- [Mod Instruductions](docs/mod_introductions/)
+- [Installation](/installation/)
+- [Modlist](/modlist/)
+- [Mod Instruductions](/mod_introductions/)

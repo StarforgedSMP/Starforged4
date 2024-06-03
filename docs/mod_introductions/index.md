@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /mod_introductions/
+title: Mod Instroductions
+---
+
 # Mod Introductions
 
 Starforged4 packs a quite a lot of mods of various categories, below are some

@@ -4,18 +4,15 @@ permalink: /installation/
 title: Installation
 ---
 
-# Installation
-
 <!--toc:start-->
 
-- [Installation](#installation)
-  - [Installing Java 17](#installing-java-17)
-  - [Installing Prism Launcher](#installing-prism-launcher)
-    - [Downloading the Launcher](#downloading-the-launcher)
-    - [Logging into your Minecraft account](#logging-into-your-minecraft-account)
-  - [Using the Modpack](#using-the-modpack) -
-  [Using the auto-updating modpack (generic)](#using-the-auto-updating-modpack-generic) -
-  [Using the auto-updating modpack (Prismlauncher)](#using-the-auto-updating-modpack-prismlauncher)
+- [Installing Java 17](#installing-java-17)
+- [Installing Prism Launcher](#installing-prism-launcher)
+  - [Downloading the Launcher](#downloading-the-launcher)
+  - [Logging into your Minecraft account](#logging-into-your-minecraft-account)
+- [Using the Modpack](#using-the-modpack)
+  - [Using the auto-updating modpack (generic)](#using-the-auto-updating-modpack-generic)
+  - [Using the auto-updating modpack (Prismlauncher)](#using-the-auto-updating-modpack-prismlauncher)
   <!--toc:end-->
 
 There are several steps you need to go through in order to start your adventure.

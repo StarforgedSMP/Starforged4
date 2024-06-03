@@ -1,8 +1,15 @@
+---
+layout: page
+permalink: /mod_list/
+title: Mod List
+---
+
 # Mod List
 
 The list of all mods present in the modpack.
 
-For a brief introduction for the mods that matter, please see the [Mod Introductions](/docs/mod-introductions) page.
+For a brief introduction for the mods that matter, please see the
+[Mod Introductions](/docs/mod-introductions) page.
 
 - [Acclaimed-Origins](https://modrinth.com/mod/VJQ3A7Ue)
 - [Advanced-Netherite](https://modrinth.com/mod/CFX9ftUJ)
