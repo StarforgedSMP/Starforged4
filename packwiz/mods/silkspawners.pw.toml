@@ -1,0 +1,14 @@
+name = "SilkSpawners"
+filename = "wraith-silkspawners-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7120bea6f2c177736adc978e886b9dd63060b8dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4603433
+project-id = 410896
+

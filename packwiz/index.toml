@@ -356,11 +356,6 @@ hash = "4d5b8dd0b5c31c552b8195d1058e14a009e8ecc943bfe9bef6c3c837d56b6d16"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-mob-spawners.pw.toml"
-hash = "4d43df38124623e53f45d192ed32112058dbd56c2f29211ba908dc39679e9eed"
-metafile = true
-
-[[files]]
 file = "mods/essential.pw.toml"
 hash = "5c52ec5b882cf4aec6344b220d4f1f6f54cfe90ea406ca97f092ec9cc1965092"
 metafile = true
@@ -568,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/shulker-charm.pw.toml"
 hash = "6b9997bc25be0c3cca18408393949fcb9eb6e53be760552e4a24164f4911b830"
+metafile = true
+
+[[files]]
+file = "mods/silkspawners.pw.toml"
+hash = "bcb35d28ff7a03c403843ed015becd9b3ce1f13cbd5216dda48b49003d671412"
 metafile = true
 
 [[files]]
