@@ -1,2 +1,15 @@
 # Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
 * -text
+
+# try to get markdown files to be treated as markdown
+# by linguist - ** prefix is for all subdirectories
+*.md linguist-detectable
+*.md linguist-language=Markdown
+
+# Git Configuration files
+*.gitattributes linguist-detectable=false
+*.gitattributes linguist-documentation=false
+*.gitignore linguist-detectable=false
+*.gitignore linguist-documentation=false
+*.editorconfig linguist-detectable=false
+*.editorconfig linguist-documentation=false
