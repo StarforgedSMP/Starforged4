@@ -1,0 +1,37 @@
+---
+---
+
+@import "minima";
+
+.footer-col {
+  width: 100%;
+}
+
+.post-list > li > h3 {
+  margin-block-end: 0px;
+}
+
+.post-title {
+  font-size: 26px;
+}
+
+.site-title {
+  font-size: 32px;
+  font-weight: bold;
+  letter-spacing: normal;
+}
+
+.site-title:hover {
+  opacity: 0.5;
+  text-decoration: none;
+}
+
+.social-media-list > li {
+  display: inline-block;
+  padding-right: $spacing-unit / 4;
+}
+
+#copyright {
+  float: right;
+  font-size: min(100%, 3vw);
+}
