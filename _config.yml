@@ -6,12 +6,6 @@ author:
 description: >-
   Documentation for the 4th iteration of Starforged
 
-markdown: kramdown
-kramdown:
-  parse_block_html: true
-  parse_inline_html: true
-  toc_levels: 2..3
-
 theme: minima
 plugins:
   - jekyll-feed
@@ -21,9 +15,6 @@ header_pages:
   - docs/installation/index.md
   - docs/modlist/index.md
 
-# Post permalink
-permalink: /:year/:month/:day/:title:output_ext
-
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: false
 
@@ -32,4 +23,8 @@ minima:
   skin: dark
   date_format: "%b-%d-%Y"
   social-links:
-    - { platform: github, user_url: "https://github.com/StarforgedSMP" }
+    - {
+        title: "Github",
+        platform: github,
+        user_url: "https://github.com/StarforgedSMP",
+      }
