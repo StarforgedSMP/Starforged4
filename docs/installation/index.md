@@ -50,10 +50,10 @@ TODO
 
 ## Using the Modpack
 
-[releases]: https://github.com/StarforgedSMP/Starforged4/releases/latest
+[releases tab]: https://github.com/StarforgedSMP/Starforged4/releases/latest
 
 There are multiple ways of acquiring the modpack, available for most popular
-launchers. See [here](releases) for available formats
+launchers. See [releases tab] for available formats
 
 ### Using the auto-updating modpack (generic)
 
@@ -61,9 +61,8 @@ launchers. See [here](releases) for available formats
 
 The recommended way of installing the Starforged4 modpack is using the
 auto-updating pack. Regardless of your modlauncher, you may install
-`packwiz-installer-bootstrap` from
-[packwiz-installer-bootstrap's releases page](packwiz-installer-bootstrap) and
-put it in your instance's `.minecraft` folder. After you confirm
+`packwiz-installer-bootstrap` from [packwiz-installer-bootstrap]'s releases page
+and put it in your instance's `.minecraft` folder. After you confirm
 packwiz-installer-bootstrap has been properly installed, you may set the
 following as your launch command, and the modpack will be updated for you
 automatically.
