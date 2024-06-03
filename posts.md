@@ -1,5 +1,5 @@
 ---
 layout: posts
-title: Testing Posts!
+title: Posts
 permalink: /posts
 ---
