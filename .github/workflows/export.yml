@@ -57,7 +57,7 @@ jobs:
           # profile.
           echo "Archiving Prismlauncher Profile"
           zip -r "Starforged4-1.20.1-prismlauncher.zip" \
-            config mods \
+            config mods .minecraft/ \
             instance.cfg mmc-pack.json starforged_4_icon.png \
             packwiz-installer-bootstrap.jar
 
