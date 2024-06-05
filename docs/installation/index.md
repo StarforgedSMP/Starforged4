@@ -28,21 +28,15 @@ Minecraft 1.20.1 requires Java 17 JDK to be installed on your system.
    [Oracle Java website](https://www.oracle.com/java/technologies/downloads/#jdk17)
    and pick Java 17\
 
-<img src="./oracle_java17_download.jpg"
-    alt="Screenshot of the Oracle website, highlighting the Java 17 navigation item"
-    style="display: block; margin: 0 auto;">
+![Screenshot of the Oracle website, highlighting the Java 17 navigation item](./oracle_java17_download.png)
 
-2. Pick your operating system (Windows, macOS, or Linux):\
+2. Pick your operating system (Windows, macOS, or Linux):
 
-<img src="./oracle_java17_os-choice.jpg"
-    alt="Screenshot of the Oracle website, highlighting the valid OS navigation items"
-    style="display: block; margin: 0 auto;">
+![Screenshot of the Oracle website, highlighting the valid OS navigation items](./oracle_java17_os-choice.jpg)
 
 3. Download the installer and run it:\
 
-<img src="./oracle_java17_installer.jpg"
-    alt="Screenshot of the Oracle website, highlighting the download button for the installer"
-    style="display: block; margin: 0 auto;">
+![Screenshot of the Oracle website, highlighting the download button for the installer](./oracle_java17_installer.jpg)
 
 ## Installing Prism Launcher
 
@@ -51,9 +45,7 @@ Minecraft 1.20.1 requires Java 17 JDK to be installed on your system.
 1. Go to the [Prism Launcher website](https://prismlauncher.org/) and hit the
    download button
 
-<img src="./prism_download_button.jpg"
-    alt="Screenshot of the Prism Launcher website, highlighting the download button"
-    style="display: block; margin: 0 auto;">
+![Screenshot of the Prism Launcher website, highlighting the download button](./prism_download_button.jpg)
 
 2. Download the installer for your system architecture (usually x86_64) and run
    the installer. Follow installer's own instructions until you get to the main
@@ -101,9 +93,7 @@ you may follow the instructions below.
 
 1. Get the **generic** pack from the releases tab that is linked above.
 
-<img src="./releases_generic.jpg"
-    alt="Screenshot of the GitHub releases tab, highlighting the generic pack"
-    style="display: block; margin: 0 auto;">
+![Screenshot of the GitHub releases tab, highlighting the generic pack](./releases_generic.jpg)
 
 2. Open your `.minecraft` folder. The exact instructions for this step will
    differ, but if you are using Mojang's own Minecraft launcher then it will be
