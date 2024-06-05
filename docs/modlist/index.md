@@ -1,15 +1,6 @@
----
-layout: page
-permalink: /mod_list/
-title: Mod List
----
-
-# Mod List
-
 The list of all mods present in the modpack.
 
-For a brief introduction for the mods that matter, please see the
-[Mod Introductions](/docs/mod-introductions) page.
+For a brief introduction for the mods that matter, please see the [Mod Introductions](/docs/mod-introductions) page.
 
 - [Acclaimed-Origins](https://modrinth.com/mod/VJQ3A7Ue)
 - [Advanced-Netherite](https://modrinth.com/mod/CFX9ftUJ)
@@ -42,7 +33,6 @@ For a brief introduction for the mods that matter, please see the
 - [-Let-s-Do--API](https://modrinth.com/mod/4XJZeZbM)
 - [Elytra-Slot](https://modrinth.com/mod/mSQF1NpT)
 - [Enchant-Tweaker](https://modrinth.com/mod/e4Vpm1dD)
-- [Enhanced-Mob-Spawners](https://modrinth.com/mod/ZF0coYok)
 - [ESSENTIAL-Mod](https://modrinth.com/mod/k2ZPuTBm)
 - [Expansive-Caves](https://modrinth.com/mod/3Yf2YxFH)
 - [Expansive-Ravines](https://modrinth.com/mod/rJ4Cexi8)
@@ -65,6 +55,7 @@ For a brief introduction for the mods that matter, please see the
 - [Life-Crystals](https://modrinth.com/mod/FQBPM9qS)
 - [Lootr](https://modrinth.com/mod/EltpO5cN)
 - [Mob-Origins](https://modrinth.com/mod/SXwBmSQG)
+- [Mod-Menu](https://modrinth.com/mod/mOgUt4GM)
 - [Moonlight-Lib](https://modrinth.com/mod/twkfQtEc)
 - [No-Chat-Reports](https://modrinth.com/mod/qQyHxfxd)
 - [Nullscape](https://modrinth.com/mod/LPjGiSO4)
@@ -84,6 +75,7 @@ For a brief introduction for the mods that matter, please see the
 - [Show-Dimension-In-Name](https://modrinth.com/mod/hXdoMWYD)
 - [Shulker-Box-Slot](https://modrinth.com/mod/R5T1RmWr)
 - [Shulker-Charm](https://modrinth.com/mod/J2SCGP0Y)
+- [SilkSpawners]()
 - [Simple-Voice-Chat](https://modrinth.com/mod/9eGKb6K1)
 - [Stack-Size-Edit--Fabric-]()
 - [Supplementaries](https://modrinth.com/mod/fFEIiSDQ)
