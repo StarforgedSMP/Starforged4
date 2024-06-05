@@ -27,16 +27,13 @@ Minecraft 1.20.1 requires Java 17 JDK to be installed on your system.
 1. Go to the
    [Oracle Java website](https://www.oracle.com/java/technologies/downloads/#jdk17)
    and pick Java 17\
-
-![Screenshot of the Oracle website, highlighting the Java 17 navigation item](./oracle_java17_download.png)
+   ![Screenshot of the Oracle website, highlighting the Java 17 navigation item](./oracle_java17_download.png)
 
 2. Pick your operating system (Windows, macOS, or Linux):
+   ![Screenshot of the Oracle website, highlighting the valid OS navigation items](./oracle_java17_os-choice.jpg)
 
-![Screenshot of the Oracle website, highlighting the valid OS navigation items](./oracle_java17_os-choice.jpg)
-
-3. Download the installer and run it:\
-
-![Screenshot of the Oracle website, highlighting the download button for the installer](./oracle_java17_installer.jpg)
+3. Download the installer and run it:
+   ![Screenshot of the Oracle website, highlighting the download button for the installer](./oracle_java17_installer.jpg)
 
 ## Installing Prism Launcher
 
@@ -44,8 +41,7 @@ Minecraft 1.20.1 requires Java 17 JDK to be installed on your system.
 
 1. Go to the [Prism Launcher website](https://prismlauncher.org/) and hit the
    download button
-
-![Screenshot of the Prism Launcher website, highlighting the download button](./prism_download_button.jpg)
+   ![Screenshot of the Prism Launcher website, highlighting the download button](./prism_download_button.jpg)
 
 2. Download the installer for your system architecture (usually x86_64) and run
    the installer. Follow installer's own instructions until you get to the main
@@ -71,8 +67,9 @@ auto-updating pack. Regardless of your modlauncher, you may install
 `packwiz-installer-bootstrap` from [packwiz-installer-bootstrap]'s releases page
 and put it in your instance's `.minecraft` folder.
 
-If you are using the classic Minecraft launcher (i.e. Mojang's own) then you can run the following command in
-a powershell session while inside your `.minecraft` folder.
+If you are using the classic Minecraft launcher (i.e. Mojang's own) then you can
+run the following command in a powershell session while inside your `.minecraft`
+folder.
 
 ```bash
 java -jar packwiz-installer-bootstrap.jar -g -s both https://starforgedsmp.github.io/Starforged4/packwiz/pack.toml
@@ -92,13 +89,13 @@ or if your launcher of choice simply does not support modded pack formats then
 you may follow the instructions below.
 
 1. Get the **generic** pack from the releases tab that is linked above.
-
-![Screenshot of the GitHub releases tab, highlighting the generic pack](./releases_generic.jpg)
+   ![Screenshot of the GitHub releases tab, highlighting the generic pack](./releases_generic.jpg)
 
 2. Open your `.minecraft` folder. The exact instructions for this step will
    differ, but if you are using Mojang's own Minecraft launcher then it will be
    in `%APPDATA%/roaming/.minecraft` For Prismlauncher instances, you can
-   rightlick your instance and right-click the "Folder" key in the dropdown menu.
+   rightlick your instance and right-click the "Folder" key in the dropdown
+   menu.
 
 3. Extract `Starforged4-1.20.1-generic.zip` in a location of your choosing. The
    path is arbitrary, so you can extract it anywhere you want.
