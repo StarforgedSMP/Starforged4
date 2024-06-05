@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".minecraft/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = "config/amendments-client.json"
 hash = "da0795a8437cc026cdd58b936c1f247399e2e08738af58ee93436ffd43f98809"
 
