@@ -1,0 +1,13 @@
+name = "Red’s More Structures"
+filename = "reds-more-structures-1.0.8R.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DKJltXeY/versions/LsFfeVOI/reds-more-structures-1.0.8R.jar"
+hash-format = "sha1"
+hash = "19fb07aa9a8acacd6dc019617c04aa365fb3a4ad"
+
+[update]
+[update.modrinth]
+mod-id = "DKJltXeY"
+version = "LsFfeVOI"

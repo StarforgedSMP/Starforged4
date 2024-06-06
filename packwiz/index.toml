@@ -246,6 +246,11 @@ hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "e9037631f35d6bedf15863b46032c06921c49537018ac43d475e549914d5de86"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
@@ -331,6 +336,11 @@ hash = "f0a4562f19849d0bfc567017d4b6f04b57787ade7938a586aca24ec5481964d1"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
@@ -368,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/expansive-ravines.pw.toml"
 hash = "05ac13314ad6085d5db30cc5765b3a2e54a36fd3ae5ccac5c221fa404462e2cc"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "930f3c6ba869160e03c602b88bdb07cc1e994f8dab353f8df084c076219d701c"
 metafile = true
 
 [[files]]
@@ -411,6 +426,11 @@ hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
 metafile = true
 
 [[files]]
+file = "mods/give-me-hats.pw.toml"
+hash = "95cc515cae7ec272e0166e8c8532e2105d3879d533d9bd545669e4a49a36167c"
+metafile = true
+
+[[files]]
 file = "mods/global-xp.pw.toml"
 hash = "2af16c20956ad3af4c53de27d32da445ca54ef627e90d5bd75444016a4f07a55"
 metafile = true
@@ -418,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/gravelminer.pw.toml"
 hash = "b604a70813426c76c860832df81e8ed97def11d32d04264d36fc8ea8d185c589"
+metafile = true
+
+[[files]]
+file = "mods/guarding.pw.toml"
+hash = "e25880588a312809a897620f0c46c203500486a9b2ea69eb0690882a9d47335a"
 metafile = true
 
 [[files]]
@@ -438,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/kambrik.pw.toml"
 hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
+metafile = true
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
 metafile = true
 
 [[files]]
@@ -473,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "50494c04a20e65d378e519e171e5284a082b268a6248f15e7804d4677fa5fa94"
+metafile = true
+
+[[files]]
+file = "mods/morewaterlogging.pw.toml"
+hash = "837a38c0689d702c95a447373189abefc4f87da0c46092f2e7a1bcae9be8de2c"
 metafile = true
 
 [[files]]
@@ -516,8 +551,18 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "fc17f54efea6b8e4640320a9a96f65af058eed05aa2c2f07b34940ffd91092e4"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
@@ -541,6 +586,16 @@ hash = "bb9c50d8b6d9b9e39fbc307042e7a361f0dc12635d318ddfbf49300ec01e7b3a"
 metafile = true
 
 [[files]]
+file = "mods/reds-more-structures.pw.toml"
+hash = "dbae35f6822fc6267d99a309024c659d95b373a555eec582dd8a0be524d0ae8e"
+metafile = true
+
+[[files]]
+file = "mods/roguelikedungeons.pw.toml"
+hash = "0d3d9de24a437490da8c8998061ccc68593a83f7a5f3040107a57be436a96b95"
+metafile = true
+
+[[files]]
 file = "mods/rpg-origins.pw.toml"
 hash = "eefa3b58473952bca5aa799f191264940d67dfbcdfa2c0b7183e3cb1938cf443"
 metafile = true
@@ -548,6 +603,16 @@ metafile = true
 [[files]]
 file = "mods/rpgdifficulty.pw.toml"
 hash = "fe1288f6febffc381c95c906117871bbcdf3a74744126efcc28206d1a314e367"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
+metafile = true
+
+[[files]]
+file = "mods/scarves.pw.toml"
+hash = "1edbb99891cf492f661aa7edf589d021ffdcb8e6d3c1a3698f24756b1ddc3ce9"
 metafile = true
 
 [[files]]
@@ -576,6 +641,16 @@ hash = "7e5fa206c5818b4366f14c9fb6f8953ac0242032a0d02b368853e71ded91ac22"
 metafile = true
 
 [[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "aaf3d7ccbcd050662a4ad01e82a561403716e74a45410da71d05d4c8cb42dcdc"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "90d44341ae2126a91ebdd1ecab13a23e2ee0f21af87fc286bb5eb8a53e87e463"
+metafile = true
+
+[[files]]
 file = "mods/stack-size-edit-fabric.pw.toml"
 hash = "90c8ede97ef9a96c486f8b066fe3425da95ab7c5cfab4b670c76813fad3af8e7"
 metafile = true
@@ -583,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/stars_steel-1.1.0.jar"
 hash = "9992bdfd043f929db5b45d0cb33c9b1059e470b9aa84dafba825730178bf08aa"
+
+[[files]]
+file = "mods/statement.pw.toml"
+hash = "1aac9c6e5f50c67f4586862f05fc5b8a7ac5df889b6774d80e14f5fab47f2db7"
+metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
@@ -595,8 +675,18 @@ hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-castle.pw.toml"
 hash = "71759ba6675ec4109bc555e2f5adfa5d433d8f633692a1bb69b0c7b2a0b90ae9"
+metafile = true
+
+[[files]]
+file = "mods/things.pw.toml"
+hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
 
 [[files]]
