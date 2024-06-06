@@ -182,7 +182,7 @@ hash = "fa0f1e92e24116664d6040b92f61fb144d4227a537ea1613af4fd3c95273945e"
 
 [[files]]
 file = "config/vcinteraction/vcinteraction.properties"
-hash = "575324975b2e7bd78806d223877b706ab6cbf745e405d9af31fc6a9405f7e53c"
+hash = "1314849d293d59fdaf7de7e2c24516d767c8b97068b2852e5e7592d210410320"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -191,14 +191,6 @@ hash = "0085cad16f45032536777a50ad78d83b296db24923b8f4791f91768209fa2cd9"
 [[files]]
 file = "config/waystones-common.toml.bak1"
 hash = "951dcda290934fb0bd8de4e5c2d4df1b790c0074c4c4aacb54d18409c8206b62"
-
-[[files]]
-file = "instance.cfg"
-hash = "80d13a5a1b87f936499afec6a79aeba85d0a4db7af52cf303850a048cbe20d70"
-
-[[files]]
-file = "mmc-pack.json"
-hash = "33a18ff22bffd6ce59929b2b5ebf3986cac8d4b704f0fbb6c12570c852e5ac60"
 
 [[files]]
 file = "mods/acclaimed-origins.pw.toml"
@@ -611,11 +603,6 @@ hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
 metafile = true
 
 [[files]]
-file = "mods/scarves.pw.toml"
-hash = "1edbb99891cf492f661aa7edf589d021ffdcb8e6d3c1a3698f24756b1ddc3ce9"
-metafile = true
-
-[[files]]
 file = "mods/show-dimension-in-name.pw.toml"
 hash = "3b14cda3339b8aba9aa334923b192cba9178b991aacdf181c3c9d790d3885d5b"
 metafile = true
@@ -753,7 +740,3 @@ metafile = true
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "925ed414ce82dd8e694288782a43a9ebaa5eb1752d7ad4e4ce3dd359040402e5"
 metafile = true
-
-[[files]]
-file = "starforged_4_icon.png"
-hash = "812d5b10c9a84b9129710d6c7a1a841300a32a7ae4c366069ae6204aa4e3b6b0"

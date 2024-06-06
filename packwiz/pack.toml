@@ -1,13 +1,13 @@
 name = "STARFORGED 4"
 author = "STARPLANET"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2b205dbed6ac7116816c04f624b703bea858c6887a892ba26a2ac096a2f8657e"
+hash = "e55760194c27427c9facc64d9e44b8c874a540e3ec1ec73531bc0bf7911de027"
 
 [versions]
-fabric = "0.15.11"
+fabric = "0.15.7"
 minecraft = "1.20.1"
