@@ -1,0 +1,13 @@
+name = "More Water Logging"
+filename = "morewaterlogging-1.1.1-1.20-1.20.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CJdDBlFe/versions/oY8u8HWR/morewaterlogging-1.1.1-1.20-1.20.2.jar"
+hash-format = "sha1"
+hash = "5167d1ce96a819d0b0346655e89e95b673355b19"
+
+[update]
+[update.modrinth]
+mod-id = "CJdDBlFe"
+version = "oY8u8HWR"

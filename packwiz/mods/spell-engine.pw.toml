@@ -1,0 +1,13 @@
+name = "Spell Engine"
+filename = "spell_engine-0.14.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XvoWJaA2/versions/IQ3VkdyH/spell_engine-0.14.3%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "0cd8204ee8f83e8432b940d60b46201c4dce8063"
+
+[update]
+[update.modrinth]
+mod-id = "XvoWJaA2"
+version = "IQ3VkdyH"
