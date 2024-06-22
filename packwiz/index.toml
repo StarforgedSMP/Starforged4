@@ -66,11 +66,11 @@ hash = "36a4d9f5da68f6801b83ce0c4a1a8805fbeffb0dd997f2d405465d7774522296"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "0954f1f111f7cbfa59b97e6e3e80e5233efcf93875bc488749e8cdcc43ce6092"
+hash = "7370912f55f8712ef47cce9c561f6f67b360b4c8c92b873b33c88a36f1960e09"
 
 [[files]]
 file = "config/enchant-tweaker.properties"
-hash = "533e8fa5efa40f0e4c033d68ee1fc20531965996e10d3b10784377e94da8b333"
+hash = "1c25b02935514b81d05d5a8f04214be3a30471e89ded2122be2e3084d646c560"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -106,7 +106,7 @@ hash = "172c377884b147a8014e31c4070d7e4d5f0a131cfcb4846370f2b7431959236e"
 
 [[files]]
 file = "config/life_crystals.json"
-hash = "025081b0855ff02145f4a50a16ce1fde92bae38837ae68a10859c79272de79f1"
+hash = "d7a8d320fd917bd01ce4044a93da73d747c327bc73d88eedfe76709f052fac23"
 
 [[files]]
 file = "config/lootr.json"
@@ -142,7 +142,7 @@ hash = "49661414f5cd74085acdea1ae6a7619382fca6f8b9f2cef5c6d9beb2006dc1a0"
 
 [[files]]
 file = "config/rpgdifficulty.json"
-hash = "35145298a53a58135e529d7c6cf9ca0d9c4f3d4928fc5d7acb88102f9918191d"
+hash = "975cdeb1d9495de404ce2ce251c5577e31e30b4f5aa810a17aabf8c0bc87205f"
 
 [[files]]
 file = "config/shulkerboxslot-server.toml"
@@ -158,7 +158,7 @@ hash = "3cf170f8185d47b4cbc1efe9476ecef40fce56ee03a433e0d315f9537adc94a7"
 
 [[files]]
 file = "config/stacksizeedit.json"
-hash = "bf6c15c040f25b21e4aa4f4866c6507b7ded791523166a9e23811fd919005621"
+hash = "3f4f728dbc4a3a2134e22e9977fb75e4d56fc1c11fc1b17b16815c4a4f0251fc"
 
 [[files]]
 file = "config/supplementaries-client.json"
@@ -174,7 +174,7 @@ hash = "6182d9b5caace521a7429905796002e5f6c560e4a19828bfc79e057112084bfa"
 
 [[files]]
 file = "config/timecontrol.json"
-hash = "bbafcca316389374aac2a41162255bc2ec45e7429461ca1351b0ae4f508a1636"
+hash = "255deb5249f99b8dd541c959cefd62eb4cc101e0176faa4ea4404ad1347876c5"
 
 [[files]]
 file = "config/tlc.json"
@@ -231,13 +231,28 @@ hash = "c6b479e0d69143384fadcf7165f71a6a79f8f2c1789b79bdbef62983dd300d47"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "f236bc25de265a3182557136a3e541bb868b0d478b76de5bbd9ca3780b56efcf"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "ed49aa18ef3f4ee16296552c61d10c7cc742cf2e09a1bc7ce11a120136052db1"
+metafile = true
+
+[[files]]
 file = "mods/aspects.pw.toml"
 hash = "49c316eb6bba190bd3ceefebb6374b77c215316367c3e1cd7a126b0acb2546aa"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
 metafile = true
 
 [[files]]
@@ -306,8 +321,18 @@ hash = "31a75fd95d5c670301f8f135ae702e6913a43a7605a28e44425f4838b30f338e"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "43fe767a08365fa6c049c8e35323f6fd1a0aa4602725126e460ae6fd514888be"
+metafile = true
+
+[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "82a31265d90c885eadccd59c2a35ef795fd526865091243933d52717ef1db4be"
+metafile = true
+
+[[files]]
+file = "mods/bundle-tweaks.pw.toml"
+hash = "eacf8a5ae536b2287a3eebcbb8b67d0210bc053db48a28dc07c5b9abe16f5ad8"
 metafile = true
 
 [[files]]
@@ -321,8 +346,18 @@ hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
 file = "mods/caves__canyons.pw.toml"
 hash = "decc3a32b8b8e98de30b2efdaacc501a321cf7be2ee8f1ae4c2d53295f75c2ee"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
 metafile = true
 
 [[files]]
@@ -331,8 +366,23 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "ae3c8677a574757a519780f8c4f461763ebc19c590a42f3af0f9447bf7ef4a94"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "f0a4562f19849d0bfc567017d4b6f04b57787ade7938a586aca24ec5481964d1"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "80510227311a8bc980c2814700f450c30b825ebadb41f9f1e79400f8a7925ee8"
 metafile = true
 
 [[files]]
@@ -341,8 +391,23 @@ hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
 
 [[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "a449fbd1ab11bfa62969c3cb911e642adf750657bb17092515034aab97204b02"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators-fabric.pw.toml"
+hash = "c444817bb4da81488458646b19c2c4ad49284d9a99961a61958628c71c0dfced"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "246738f5a6bb9726299202fbe7a639ca214cf704e3ea6ca20414b9600c0a7412"
 metafile = true
 
 [[files]]
@@ -351,8 +416,18 @@ hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
 
 [[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+hash = "2669ee304ddaa3bc3879c25147b12fa382b6baa1cc75153639d33d8f954b9f83"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "57bdebf7fb5de047c0fe304d2646c854d629007734c589253aaa97973982f522"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-now-loading.pw.toml"
+hash = "d4a31dc7f7c057041930d91696a4d1cb978eaa16f8727df31a4b97668eb542a1"
 metafile = true
 
 [[files]]
@@ -368,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/essential.pw.toml"
 hash = "5c52ec5b882cf4aec6344b220d4f1f6f54cfe90ea406ca97f092ec9cc1965092"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
 metafile = true
 
 [[files]]
@@ -596,6 +676,11 @@ hash = "dbae35f6822fc6267d99a309024c659d95b373a555eec582dd8a0be524d0ae8e"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
+metafile = true
+
+[[files]]
 file = "mods/roguelikedungeons.pw.toml"
 hash = "0d3d9de24a437490da8c8998061ccc68593a83f7a5f3040107a57be436a96b95"
 metafile = true
@@ -656,12 +741,17 @@ hash = "90c8ede97ef9a96c486f8b066fe3425da95ab7c5cfab4b670c76813fad3af8e7"
 metafile = true
 
 [[files]]
-file = "mods/stars_steel-1.1.0.jar"
-hash = "9992bdfd043f929db5b45d0cb33c9b1059e470b9aa84dafba825730178bf08aa"
+file = "mods/stars_steel-1.1.1.jar"
+hash = "2d475d0c562abbb5de81a7822b45ee7e4310d88337eecb7d4ee0f60a40c7cdf9"
 
 [[files]]
 file = "mods/statement.pw.toml"
 hash = "1aac9c6e5f50c67f4586862f05fc5b8a7ac5df889b6774d80e14f5fab47f2db7"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "3734c99f8be59a3156ca1dde53ce945b95c775b81d44b06d5e5b569cd95179d8"
 metafile = true
 
 [[files]]
@@ -695,6 +785,11 @@ hash = "b3cc1a570e0d17cff97d7af8f4b8c4ec9d8fc704d0eb1e1575dbfaa5fe785cb2"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage-fabric.pw.toml"
+hash = "1ecc3be19c079f7762fccef2b6d3af07cf4399218f10fddff4a5173ff79c9622"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
@@ -702,6 +797,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
@@ -717,6 +817,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "a6614ca2d62be4bd9a6f98089c1a999f383d7a1d26ee057a8c8937d59129812e"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
 metafile = true
 
 [[files]]

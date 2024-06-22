@@ -1,0 +1,13 @@
+name = "Dungeon Now Loading"
+filename = "Dungeon Now Loading-fabric-1.20.1-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vZoqTqwv/versions/e2aaNGip/Dungeon%20Now%20Loading-fabric-1.20.1-1.5.jar"
+hash-format = "sha1"
+hash = "ff0cfccfe8bdd2eb94263275e74d569e534d3fe4"
+
+[update]
+[update.modrinth]
+mod-id = "vZoqTqwv"
+version = "e2aaNGip"

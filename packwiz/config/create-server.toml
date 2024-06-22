@@ -399,7 +399,7 @@
 	#[in KiloBytes]
 	#The maximum allowed file size of uploaded Schematics.
 	#Range: > 16
-	maxSchematics = 256
+	maxSchematics = 5120
 	#.
 	#.
 	#Whether placing a Schematic directly in Creative Mode should replace world blocks with Air
@@ -408,7 +408,7 @@
 	#[in Bytes]
 	#The maximum packet size uploaded Schematics are split into.
 	#Range: 256 ~ 32767
-	maxSchematicPacketSize = 1024
+	maxSchematicPacketSize = 5120
 
 	#.
 	#Schematicannon
@@ -420,11 +420,11 @@
 		#.
 		#% of Schematicannon's Fuel used for each fired block.
 		#Range: 0.0 ~ 100.0
-		schematicannonFuelUsage = 0.05000000074505806
+		schematicannonFuelUsage = 0.075
 		#.
 		#Amount of game ticks between shots of the cannon. Higher => Slower
 		#Range: > 1
-		schematicannonDelay = 10
+		schematicannonDelay = 3
 
 #.
 #Equipment and gadgets added by Create

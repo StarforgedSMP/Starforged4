@@ -1,0 +1,13 @@
+name = "Archers (RPG Series)"
+filename = "archers-1.2.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d129674de530ff4ac325bc506037fcd764a0fa3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5252405
+project-id = 932359
