@@ -391,11 +391,6 @@ hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
 
 [[files]]
-file = "mods/create-aquatic-ambitions.pw.toml"
-hash = "a449fbd1ab11bfa62969c3cb911e642adf750657bb17092515034aab97204b02"
-metafile = true
-
-[[files]]
 file = "mods/create-diesel-generators-fabric.pw.toml"
 hash = "c444817bb4da81488458646b19c2c4ad49284d9a99961a61958628c71c0dfced"
 metafile = true
