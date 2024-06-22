@@ -1,12 +1,12 @@
 name = "STARFORGED 4"
 author = "STARPLANET"
-version = "1.2.1"
+version = "1.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9458a0347ae594c34c0f9d8ca13af7ccf9be584c7ff7a2bae426a257534436ed"
+hash = "86177d7cd56db0ceac79588d023f31ed37fa41a5b9badf7930c5dc8c9602a224"
 
 [versions]
 fabric = "0.15.11"

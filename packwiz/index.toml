@@ -441,11 +441,6 @@ hash = "5c52ec5b882cf4aec6344b220d4f1f6f54cfe90ea406ca97f092ec9cc1965092"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
-metafile = true
-
-[[files]]
 file = "mods/expansive-caves.pw.toml"
 hash = "48a97707c2c6d4fe19bf158ce6a1261c011d2104f96ee56e69b4c3a0543cad1d"
 metafile = true
@@ -503,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/give-me-hats.pw.toml"
 hash = "95cc515cae7ec272e0166e8c8532e2105d3879d533d9bd545669e4a49a36167c"
+metafile = true
+
+[[files]]
+file = "mods/glass-armor.pw.toml"
+hash = "7d96e5390b84e0f484a6de91180c330634833f826856dee0930cfc5318f3edd0"
 metafile = true
 
 [[files]]
@@ -792,11 +792,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
