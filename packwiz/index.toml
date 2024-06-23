@@ -721,6 +721,11 @@ hash = "7e5fa206c5818b4366f14c9fb6f8953ac0242032a0d02b368853e71ded91ac22"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "6c7aac9d4d3a1806caf11f0afb7d27b16a67c275ccc20d2397ca0d90c57f7e19"
+metafile = true
+
+[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "aaf3d7ccbcd050662a4ad01e82a561403716e74a45410da71d05d4c8cb42dcdc"
 metafile = true
