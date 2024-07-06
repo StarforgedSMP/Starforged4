@@ -70,7 +70,7 @@ hash = "7370912f55f8712ef47cce9c561f6f67b360b4c8c92b873b33c88a36f1960e09"
 
 [[files]]
 file = "config/enchant-tweaker.properties"
-hash = "1c25b02935514b81d05d5a8f04214be3a30471e89ded2122be2e3084d646c560"
+hash = "f0a5c91c5cde0081073ff33ec15f2e71e10801aa720d61d971806d4d51ebaa4d"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -158,7 +158,7 @@ hash = "3cf170f8185d47b4cbc1efe9476ecef40fce56ee03a433e0d315f9537adc94a7"
 
 [[files]]
 file = "config/stacksizeedit.json"
-hash = "3f4f728dbc4a3a2134e22e9977fb75e4d56fc1c11fc1b17b16815c4a4f0251fc"
+hash = "cbc2d9455666f3ebe739756814ad1a15dd7ab1d5560a80936f65fa0243aa9629"
 
 [[files]]
 file = "config/supplementaries-client.json"
@@ -231,6 +231,11 @@ hash = "c6b479e0d69143384fadcf7165f71a6a79f8f2c1789b79bdbef62983dd300d47"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "5accd2e36c1a55de10e18c2b6b0ddf02bc7dc930d11a974c87f84a3573f75dc6"
+metafile = true
+
+[[files]]
 file = "mods/archers.pw.toml"
 hash = "f236bc25de265a3182557136a3e541bb868b0d478b76de5bbd9ca3780b56efcf"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/argonauts.pw.toml"
 hash = "ed49aa18ef3f4ee16296552c61d10c7cc742cf2e09a1bc7ce11a120136052db1"
+metafile = true
+
+[[files]]
+file = "mods/ash-api.pw.toml"
+hash = "9f8df5cd59d9d9bcccbeff4acd3950c380ec20ca535cadb7e050fa1e33462ce7"
 metafile = true
 
 [[files]]
@@ -391,8 +401,18 @@ hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "7a95ecb6c1b2e4263d7b3d80aaf6f23d66dfa0359a01a0c223d6375d767380ee"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators-fabric.pw.toml"
 hash = "c444817bb4da81488458646b19c2c4ad49284d9a99961a61958628c71c0dfced"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
 
 [[files]]
@@ -408,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/create-structures.pw.toml"
 hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "650bb01ab2e62006652c079d212023a26db63baf6667537c139bec0f17ac44a6"
 metafile = true
 
 [[files]]
@@ -532,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/hybrid-aquatic.pw.toml"
-hash = "a783f06655a629fcd7846ba75745e4afbeb165fc1f2c3fa5555013685d015a65"
+hash = "6d8ee6025ddd0a8d0ccfd5af979a92de158c149f36106348f5050a2980b4fee2"
 metafile = true
 
 [[files]]
@@ -571,6 +596,11 @@ hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "4328ca91b7661092d85beba0ecb45170ec6c1329520325757884f864160bbe67"
+metafile = true
+
+[[files]]
 file = "mods/moborigins.pw.toml"
 hash = "8686717834b2c99c73a0224befd70389e2a0183cbbc61850c901aa5aad19d96c"
 metafile = true
@@ -591,6 +621,11 @@ hash = "837a38c0689d702c95a447373189abefc4f87da0c46092f2e7a1bcae9be8de2c"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -603,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/numismatic-overhaul.pw.toml"
 hash = "c856fe88e3cf7c1c8ffc85047717b9158e461036e422b5da5f8ec5aecb072671"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "6f48c6cdecb897e8f74bf15e811ed1646d162e9a8516f699adf51a1e36053133"
 metafile = true
 
 [[files]]
@@ -701,6 +741,11 @@ hash = "3b14cda3339b8aba9aa334923b192cba9178b991aacdf181c3c9d790d3885d5b"
 metafile = true
 
 [[files]]
+file = "mods/shuffle.pw.toml"
+hash = "492261ec7e14bb71018679a34941d90a16f4ac1752382dca3df47e886de29f85"
+metafile = true
+
+[[files]]
 file = "mods/shulker-box-slot.pw.toml"
 hash = "78375267a9977790798ddd655f3ec66305874db0d04da26db83a13cca5fedf8c"
 metafile = true
@@ -755,6 +800,11 @@ hash = "3734c99f8be59a3156ca1dde53ce945b95c775b81d44b06d5e5b569cd95179d8"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "042778d980d8d00f729a99bfa24689aafa848a9596d23447e059dee1929c03cf"
 metafile = true
@@ -787,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "1ecc3be19c079f7762fccef2b6d3af07cf4399218f10fddff4a5173ff79c9622"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
 metafile = true
 
 [[files]]
