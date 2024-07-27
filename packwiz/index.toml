@@ -70,7 +70,7 @@ hash = "7370912f55f8712ef47cce9c561f6f67b360b4c8c92b873b33c88a36f1960e09"
 
 [[files]]
 file = "config/enchant-tweaker.properties"
-hash = "f0a5c91c5cde0081073ff33ec15f2e71e10801aa720d61d971806d4d51ebaa4d"
+hash = "5004290e0588a578336ad29da290c15dcf21ddd995a4e37b15146ecf4f11af9d"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -150,7 +150,7 @@ hash = "40feaa58d4d562315325c561cf1e38f7fd2818d44a6d3efe4d441a7c90b667c6"
 
 [[files]]
 file = "config/shulkercharm.json5"
-hash = "5220d849c5cf43f7010a938c4c28bffda0dd3c933d1f9abe55f548b373034e42"
+hash = "24ea74f56d4ee7a846a7f21770da2dc21a519c9bcd3132dafa4790f4a60f01bd"
 
 [[files]]
 file = "config/spawnermod.json"
@@ -321,6 +321,11 @@ hash = "9c1a1c9b141d645c64ebe1c70f004d6ea889071ef39b057bab76ecd24302b011"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "9a9190378ed3f2dcedb262fe971cfb4f1ee2f404f6c68d35970d29d413ed7645"
+metafile = true
+
+[[files]]
 file = "mods/boss-blades-2.0.pw.toml"
 hash = "83e1467708572eb723cc196f6617bb58a91586ab58a3241a625449ccf660fb57"
 metafile = true
@@ -406,8 +411,18 @@ hash = "7a95ecb6c1b2e4263d7b3d80aaf6f23d66dfa0359a01a0c223d6375d767380ee"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators-fabric.pw.toml"
 hash = "c444817bb4da81488458646b19c2c4ad49284d9a99961a61958628c71c0dfced"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "20b927814945569eaf2828479e02e4706d7012e742a010c75283f2b614b238b1"
 metafile = true
 
 [[files]]
@@ -426,6 +441,11 @@ hash = "246738f5a6bb9726299202fbe7a639ca214cf704e3ea6ca20414b9600c0a7412"
 metafile = true
 
 [[files]]
+file = "mods/create-nuke.pw.toml"
+hash = "44af542b740355690528a08a1f381da576098760d6b063a34335b6225d1c9df6"
+metafile = true
+
+[[files]]
 file = "mods/create-structures.pw.toml"
 hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
@@ -433,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/create-trimmed.pw.toml"
 hash = "650bb01ab2e62006652c079d212023a26db63baf6667537c139bec0f17ac44a6"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "54979e2b51b3615d019c7a4a5f88f620bd5d89d1d40d8c84b36ce2bd31256bde"
 metafile = true
 
 [[files]]
@@ -451,6 +476,11 @@ hash = "d4a31dc7f7c057041930d91696a4d1cb978eaa16f8727df31a4b97668eb542a1"
 metafile = true
 
 [[files]]
+file = "mods/dusty-decorations.pw.toml"
+hash = "54c394443d2c49313f3b182ffffa1ebc11321898eafd319e2d55137d78d6e46b"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "b73dc299ac242f3dc0e5cafe29701e3f1632adbe33a41561c17701da28cbf30c"
 metafile = true
@@ -458,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/enchant-tweaker.pw.toml"
 hash = "4d5b8dd0b5c31c552b8195d1058e14a009e8ecc943bfe9bef6c3c837d56b6d16"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "c80f5af57bf600ce0f77479ddc6c3c63117024ce2f334aaf384959253b6bdcdd"
 metafile = true
 
 [[files]]
@@ -696,6 +731,11 @@ hash = "6e72f1cfdba5e594671bf56eaf7d00526f42eb7b9ceeb8ce98b6faafce869ad5"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "495db3946c35f78c1c59099778bce9e52847a961188a22df5a0a1bf053211421"
+metafile = true
+
+[[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
 hash = "a6b16a548b0883eb8c0bde6a05e2c5a6313fcfc8ce32df158a71a2efb2abd378"
 metafile = true
@@ -837,6 +877,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "1ecc3be19c079f7762fccef2b6d3af07cf4399218f10fddff4a5173ff79c9622"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1fa38f2d5dc8404517118f06caa0202e7fdaec001edb71b2c412766f59576095"
 metafile = true
 
 [[files]]

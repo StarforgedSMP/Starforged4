@@ -1,0 +1,13 @@
+name = "Create: Nuke"
+filename = "create_nuke-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eksacezN/versions/P0G3k6GI/create_nuke-1.0.0.jar"
+hash-format = "sha1"
+hash = "7ac471f7f2984b6e74e260007415b22f8cad1032"
+
+[update]
+[update.modrinth]
+mod-id = "eksacezN"
+version = "P0G3k6GI"

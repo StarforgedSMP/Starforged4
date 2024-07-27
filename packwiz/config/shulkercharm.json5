@@ -11,5 +11,5 @@
 	   and loses 20 energy per second when out of it.
 	   Default value 1200 (60 seconds).
 	*/
-	"maxPower": 1200
+	"maxPower": 3600
 }
